@@ -1,0 +1,238 @@
+[
+ {
+  "date": "2026-11-03",
+  "format": "carousel",
+  "slides": [
+   {
+    "kind": "cover",
+    "tag": "OR emergency",
+    "title": "ETCO2 climbing. Jaw rigid. HR racing.",
+    "sub": "Malignant hyperthermia: your first five minutes."
+   },
+   {
+    "header": "Recognize it",
+    "bullets": [
+     "Rising ETCO2 despite more ventilation",
+     "Unexplained tachycardia",
+     "Masseter or whole-body rigidity",
+     "Mixed acidosis, rising K+"
+    ],
+    "pearl": "Fever is often a LATE sign. Don't wait for it."
+   },
+   {
+    "header": "Step 1",
+    "big": "Stop triggers. Call for help.",
+    "body": "Turn off the volatile agent. Get the MH cart and extra hands. Tell the surgeon to stop or finish fast."
+   },
+   {
+    "header": "Step 2",
+    "big": "Hyperventilate",
+    "body": "100% O2 at high fresh gas flow. Add activated charcoal filters if you have them. Don't waste time changing machines."
+   },
+   {
+    "header": "Step 3",
+    "big": "Dantrolene, now",
+    "body": "Assign people to mix it immediately. Repeat per MHAUS guidance until signs resolve."
+   },
+   {
+    "header": "Step 4",
+    "bullets": [
+     "Cool if temp is above 39°C",
+     "Treat hyperkalemia and arrhythmias",
+     "ABG, K+, CK, myoglobin",
+     "Watch urine output"
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "MH Hotline: 1-800-644-9737",
+    "body": "MHAUS, 24/7. Save this before your next case.",
+    "button": "SAVE FOR YOUR ROTATION"
+   }
+  ],
+  "caption": "ETCO2 keeps climbing even as you turn up the ventilation. Would you think MH first? 🔥\n\nSwipe for the first five minutes: stop triggers and call for help → hyperventilate with 100% O2 at high flow → dantrolene immediately → cool, treat K+ and arrhythmias, send labs.\n\n💡 Hyperthermia is often late. Rising ETCO2 and tachycardia come first.\n\n📌 Save this and tag your OR partner.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #MalignantHyperthermia #Dantrolene #CAA #CRNA #SRNA #AnesthesiaStudent #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-04",
+  "format": "reel",
+  "vitals": [
+   {
+    "label": "SpO2",
+    "value": "88%",
+    "alarm": true
+   },
+   {
+    "label": "RR",
+    "value": "7",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "68"
+   }
+  ],
+  "scene": "PACU. Drowsy after an opioid-heavy case. Snoring, then quiet.",
+  "question": "First move?",
+  "options": [
+   "Push naloxone",
+   "Jaw thrust + O2",
+   "Order a chest X-ray",
+   "Reintubate"
+  ],
+  "answer": "B. Airway + O2 first",
+  "why": "Stimulate, open the airway, give oxygen, and check ventilation. Then find the cause: opioid, residual block, or sedation. Naloxone if opioid hypoventilation persists.",
+  "pearl": "Support the airway first. Then chase the cause.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "PACU, SpO2 88%, RR 7, patient drowsy after an opioid-heavy case. What's your very first move? 😴\n\nComment your pick before the answer 👇\n\nOpen the airway and oxygenate first, then work out why: opioids, residual neuromuscular block, or lingering sedation. Treat the cause once the patient is safe.\n\n📚 Go deeper: Basic Fundamentals of Beginner Anesthesia, on Amazon (link in bio).\n\n#Anesthesia #PACU #Hypoxemia #CAA #CRNA #SRNA #AnesthesiaStudent #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-05",
+  "format": "reel",
+  "vitals": [
+   {
+    "label": "BP",
+    "value": "72/38",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "42",
+    "alarm": true
+   },
+   {
+    "label": "SpO2",
+    "value": "97%"
+   }
+  ],
+  "scene": "Beach-chair shoulder, interscalene block. Sudden crash 50 min in.",
+  "question": "What's happening?",
+  "options": [
+   "LA toxicity",
+   "Bezold-Jarisch reflex",
+   "Phrenic nerve block",
+   "Anaphylaxis"
+  ],
+  "answer": "B. Bezold-Jarisch",
+  "why": "Upright position pools blood. An underfilled, vigorously contracting ventricle triggers a vagal reflex: sudden bradycardia and hypotension. Lower the head, give fluid, treat rate and pressure fast.",
+  "pearl": "In the beach chair, the brain sits above your BP cuff.",
+  "cta": "SAVE FOR YOUR ROTATION",
+  "caption": "Beach-chair shoulder under an interscalene block. BP 72/38, HR 42, out of nowhere. What's happening? 🪑\n\nThe Bezold-Jarisch reflex: an underfilled, hyperdynamic ventricle triggers a vagal response. Lower the head, give volume, and treat the bradycardia and hypotension quickly.\n\n💡 The brain sits above the cuff, so cerebral perfusion is lower than the number you see.\n\n📌 Save this for your regional rotation.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #RegionalAnesthesia #BeachChair #CAA #CRNA #SRNA #AnesthesiaStudent #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-06",
+  "format": "carousel",
+  "slides": [
+   {
+    "kind": "cover",
+    "tag": "Our books",
+    "title": "Which Anesthesia Study Co. book fits where you are?",
+    "sub": "A quick guide to the collection on Amazon."
+   },
+   {
+    "header": "Starting out",
+    "bullets": [
+     "Basic Fundamentals of Beginner Anesthesia",
+     "Anesthesiologist Assistant: Get a Jump Start"
+    ],
+    "pearl": "Built for the first months, when everything is new."
+   },
+   {
+    "header": "Drugs",
+    "bullets": [
+     "Visual Anesthesia Medication Study Cards",
+     "Anesthesia Coloring Book"
+    ],
+    "pearl": "Learn it visually. Remember it longer."
+   },
+   {
+    "header": "OR and crises",
+    "bullets": [
+     "Anesthesia & Critical Care: Quick Charts",
+     "Trauma Anesthesia Pocket Guide"
+    ],
+    "pearl": "Quick references for when the case gets busy."
+   },
+   {
+    "header": "Staying organized",
+    "bullets": [
+     "Anesthesia Student Planner",
+     "Clinical Logbook, Vol. 1 & 2"
+    ],
+    "pearl": "Plan your week. Track every case."
+   },
+   {
+    "kind": "cta",
+    "title": "Find them on Amazon.",
+    "body": "Tap the link in our bio to see the full collection.",
+    "button": "LINK IN BIO"
+   }
+  ],
+  "caption": "Which book do you actually need right now? 📚\n\nStarting out → Basic Fundamentals of Beginner Anesthesia and AA: Get a Jump Start. Drugs → Visual Medication Study Cards and the Coloring Book. OR and crises → Quick Charts and the Trauma Pocket Guide. Organized → Student Planner and Clinical Logbooks.\n\n👇 Comment which stage you're in and we'll point you to the right one.\n\n📚 The whole collection is on Amazon (link in bio).\n\n#AnesthesiaStudent #CAAStudent #SRNA #AnesthesiaSchool #AnesthesiaBooks #StudyTools #CRNA #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-07",
+  "format": "reel",
+  "vitals": [
+   {
+    "label": "FHR",
+    "value": "80",
+    "alarm": true
+   },
+   {
+    "label": "BP",
+    "value": "118/72"
+   },
+   {
+    "label": "Block",
+    "value": "Patchy",
+    "alarm": true
+   }
+  ],
+  "scene": "Labor epidural, one-sided all night. Urgent C-section called.",
+  "question": "Best plan?",
+  "options": [
+   "Top it up and go",
+   "Resite it, or plan GA",
+   "Full spinal on top",
+   "Start, add IV meds"
+  ],
+  "answer": "B. Resite or plan GA",
+  "why": "A patchy labor epidural often fails as a surgical block. If time allows, replace it. If not, prepare for GA with an airway plan. A spinal after a large top-up risks a high block.",
+  "pearl": "Speak up early: a bad labor epidural is a C-section problem waiting to happen.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "One-sided labor epidural all night, and now an urgent C-section is called. Do you trust it? 🤰\n\nComment your pick before the answer 👇\n\nA patchy labor epidural often won't become a reliable surgical block. Replace it early when you can; when you can't, have the GA and airway plan ready. A full spinal after a large epidural top-up can spread high.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #OBAnesthesia #LaborEpidural #CAA #CRNA #SRNA #AnesthesiaStudent #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-09",
+  "format": "reel",
+  "vitals": [
+   {
+    "label": "BP",
+    "value": "78/40",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "54",
+    "alarm": true
+   },
+   {
+    "label": "SpO2",
+    "value": "99%"
+   }
+  ],
+  "scene": "Spinal for C-section. Three minutes after placement.",
+  "question": "Which pressor?",
+  "options": [
+   "Phenylephrine",
+   "Ephedrine",
+   "Fluid bolus only",
+   "Wait and recheck"
+  ],
+  "answer": "B. Ephedrine",
+  "why": "Phenylephrine is first-line for spinal hypotension, but its reflex slowing would push HR 54 even lower. With bradycardia, ephedrine supports both pressure and rate. Treat fast: uterine blood flow follows maternal BP.",
+  "pearl": "Phenylephrine is first-line. Bradycardia changes the choice.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Spinal for C-section. BP 78/40, HR 54. Phenylephrine or ephedrine? 💉\n\nComment your pick before the answer 👇\n\nPhenylephrine is first-line for spinal hypotension in obstetrics, but reflex bradycardia matters when HR is already low. With hypotension plus bradycardia, ephedrine supports both pressure and rate.\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards, on Amazon (link in bio).\n\n#Anesthesia #OBAnesthesia #SpinalAnesthesia #Vasopressors #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ }
+]
