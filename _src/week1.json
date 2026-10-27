@@ -1,0 +1,234 @@
+[
+ {
+  "date": "2026-10-27",
+  "format": "carousel",
+  "slides": [
+   {
+    "kind": "cover",
+    "tag": "Airway emergency",
+    "title": "Silent chest. Paradoxical breathing. SpO2 falling.",
+    "sub": "Post-extubation laryngospasm: your first 60 seconds."
+   },
+   {
+    "header": "Recognize it",
+    "bullets": [
+     "Stridor, or complete silence",
+     "Rocking / paradoxical chest movement",
+     "No ETCO2 trace with effort",
+     "Rapid desaturation"
+    ],
+    "pearl": "Complete laryngospasm can be totally silent."
+   },
+   {
+    "header": "Step 1",
+    "big": "Call for help + 100% O2",
+    "body": "Tight mask seal. Remove the stimulus and gently suction secretions."
+   },
+   {
+    "header": "Step 2",
+    "big": "Jaw thrust + CPAP",
+    "body": "Firm pressure at the laryngospasm notch (Larson's maneuver) while holding positive pressure."
+   },
+   {
+    "header": "Step 3",
+    "big": "Deepen anesthesia",
+    "body": "Small IV dose of propofol if the spasm persists."
+   },
+   {
+    "header": "Step 4",
+    "big": "Small-dose succinylcholine",
+    "body": "If severe or not breaking. Be ready to intubate. Watch for bradycardia, especially in children."
+   },
+   {
+    "kind": "cta",
+    "title": "Don't wait for stridor.",
+    "body": "Treat early, before hypoxemia turns an airway problem into a cardiac one.",
+    "button": "SAVE FOR YOUR ROTATION"
+   }
+  ],
+  "caption": "Silent chest, paradoxical breathing, SpO2 falling. Would you call it laryngospasm in under 10 seconds? 🫁\n\nSwipe for the 4-step response: 100% O2 and help → jaw thrust + CPAP at the laryngospasm notch → deepen with propofol → small-dose succinylcholine if it won't break.\n\n💡 Complete laryngospasm can be silent. Don't wait for stridor.\n\n📌 Save this for your next PACU day.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #Laryngospasm #AirwayManagement #CAA #CRNA #SRNA #AnesthesiaStudent #AnesthesiologistAssistant #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-10-28",
+  "format": "reel",
+  "vitals": [
+   {
+    "label": "BP",
+    "value": "70/40",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "92"
+   },
+   {
+    "label": "SpO2",
+    "value": "98%"
+   }
+  ],
+  "scene": "Severe aortic stenosis. 2 minutes post-induction.",
+  "question": "First drug?",
+  "options": [
+   "Ephedrine",
+   "Phenylephrine",
+   "Esmolol",
+   "1 L fluid bolus"
+  ],
+  "answer": "B. Phenylephrine",
+  "why": "Restores SVR and diastolic pressure without pushing heart rate up. The thick LV needs that pressure to perfuse its own coronaries.",
+  "pearl": "In severe AS, hypotension AND tachycardia are both the enemy.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Severe AS. BP 70/40, HR 92, two minutes after induction. What are you pushing first? 🫀\n\nAnswer in the Reel, but comment your pick before you watch it 👇\n\nThe hypertrophied LV is perfusion-dependent: keep SVR and diastolic pressure up, keep the rate normal, protect sinus rhythm.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #AorticStenosis #CardiacAnesthesia #CAA #CRNA #SRNA #AnesthesiaStudent #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-10-29",
+  "format": "reel",
+  "vitals": [
+   {
+    "label": "SpO2",
+    "value": "86%",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "104"
+   },
+   {
+    "label": "PIP",
+    "value": "34",
+    "alarm": true
+   }
+  ],
+  "scene": "Just intubated. Breath sounds on the RIGHT only.",
+  "question": "Most likely cause?",
+  "options": [
+   "Bronchospasm",
+   "Pneumothorax",
+   "Right mainstem",
+   "Aspiration"
+  ],
+  "answer": "C. Right mainstem",
+  "why": "Check depth at the teeth, deflate the cuff, withdraw slowly while listening, and confirm bilateral breath sounds.",
+  "pearl": "Check tube depth first. Fastest fix, most common cause.",
+  "cta": "SAVE FOR YOUR ROTATION",
+  "caption": "SpO2 86% right after intubation, breath sounds on the right only. What's your first check? 🫁\n\nThe right mainstem bronchus is shorter, wider, and more vertical. Always check the tube depth before chasing anything else.\n\n📌 Save for your first airway rotation.\n\n📚 Go deeper: Basic Fundamentals of Beginner Anesthesia, on Amazon (link in bio).\n\n#Anesthesia #AirwayManagement #Intubation #CAA #CRNA #SRNA #AnesthesiaStudent #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-10-30",
+  "format": "carousel",
+  "slides": [
+   {
+    "kind": "cover",
+    "tag": "Launching soon",
+    "title": "Stop staring at a blank anesthesia plan.",
+    "sub": "Inside the Interactive Anesthesia Plan Workbook."
+   },
+   {
+    "header": "1 · The patient",
+    "bullets": [
+     "History, meds, allergies",
+     "Airway assessment",
+     "ASA class and risk flags"
+    ]
+   },
+   {
+    "header": "2 · The procedure",
+    "bullets": [
+     "Position and duration",
+     "Expected blood loss",
+     "Surgical needs that change your plan"
+    ]
+   },
+   {
+    "header": "3 · The anesthetic",
+    "bullets": [
+     "GA, regional, or MAC and why",
+     "Induction, maintenance, emergence",
+     "Analgesia and PONV plan"
+    ]
+   },
+   {
+    "header": "4 · Plan B",
+    "bullets": [
+     "Difficult airway backup",
+     "What if BP drops?",
+     "Postop disposition"
+    ],
+    "pearl": "A plan without contingencies is only a wish list."
+   },
+   {
+    "kind": "cta",
+    "title": "Coming with the new site and app.",
+    "body": "Follow @anesthesiastudyco so you don't miss launch day.",
+    "button": "FOLLOW FOR LAUNCH"
+   }
+  ],
+  "caption": "You know the drugs. Can you build the plan? 📋\n\nThe Interactive Anesthesia Plan Workbook walks you through patient → procedure → anesthetic → Plan B, the way you'll be expected to present it in clinicals.\n\n🚀 Launching with the new anesthesiastudyco.com and mobile app. Follow so you don't miss it.\n\n#AnesthesiaStudent #CAAStudent #SRNA #AnesthesiaSchool #AnesthesiaPlan #StudyTools #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-10-31",
+  "format": "reel",
+  "vitals": [
+   {
+    "label": "BP",
+    "value": "88/50",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "48",
+    "alarm": true
+   },
+   {
+    "label": "Insufflation",
+    "value": "ON"
+   }
+  ],
+  "scene": "Laparoscopic chole. HR drops as the abdomen inflates.",
+  "question": "What's happening?",
+  "options": [
+   "Vagal response to insufflation",
+   "Hemorrhage",
+   "Anaphylaxis",
+   "Light anesthesia"
+  ],
+  "answer": "A. Vagal response",
+  "why": "Peritoneal stretch triggers a vagal reflex. Ask the surgeon to release pressure, then give an anticholinergic if bradycardia persists.",
+  "pearl": "Bradycardia with insufflation: release the pressure first, then treat.",
+  "cta": "SAVE FOR YOUR ROTATION",
+  "caption": "HR drops to 48 the moment the abdomen inflates. What's your move? 🎃\n\nPeritoneal stretch can trigger a strong vagal response. Talk to the surgeon: release the pneumoperitoneum, then treat with glycopyrrolate or atropine if it persists. Always consider CO2 embolism if ETCO2 or BP crash suddenly.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #Laparoscopy #CAA #CRNA #SRNA #AnesthesiaStudent #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-02",
+  "format": "reel",
+  "vitals": [
+   {
+    "label": "ETCO2",
+    "value": "38 → 12",
+    "alarm": true
+   },
+   {
+    "label": "BP",
+    "value": "74/40",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "118"
+   }
+  ],
+  "scene": "ETCO2 drops from 38 to 12 in two breaths.",
+  "question": "Most likely?",
+  "options": [
+   "Circuit leak",
+   "Hyperventilation",
+   "Sudden fall in cardiac output",
+   "Sampling line kink"
+  ],
+  "answer": "C. Low cardiac output",
+  "why": "With BP falling too, think embolism, massive bleeding, or arrest. Take two seconds to check the circuit, then treat the patient.",
+  "pearl": "Gradual fall = ventilation. Abrupt fall + hypotension = perfusion. Flat zero = disconnection.",
+  "cta": "COMMENT YOUR FIRST MOVE",
+  "caption": "ETCO2 crashes from 38 to 12 in two breaths, BP 74/40. Equipment or patient? 📉\n\nAn abrupt drop with hypotension points to falling cardiac output: PE, air embolism, hemorrhage, or arrest. Rule out the circuit in seconds, then treat the patient.\n\n👇 Comment your first move.\n\n📚 Go deeper: Trauma Anesthesia Pocket Guide, on Amazon (link in bio).\n\n#Anesthesia #Capnography #ETCO2 #CAA #CRNA #SRNA #CriticalCare #QuickCase #AnesthesiaStudyCo"
+ }
+]
