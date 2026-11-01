@@ -1,0 +1,67 @@
+[
+ {
+  "date": "2026-11-11",
+  "format": "reel",
+  "vitals": [
+   {"label": "PEAK", "value": "40", "alarm": true},
+   {"label": "PLATEAU", "value": "18"},
+   {"label": "SpO2", "value": "95%"}
+  ],
+  "scene": "Mid-case, volume control. Peak pressure alarm fires.",
+  "question": "Where is the problem?",
+  "options": ["Pneumothorax", "Tube or airways", "Insufflation", "Mainstem tube"],
+  "answer": "B. Resistance: tube or airways",
+  "why": "A big peak-plateau gap with a normal plateau points to resistance, not compliance. Think kinked or bitten tube, secretions, or bronchospasm. Check the circuit, pass a suction catheter, listen for wheeze.",
+  "pearl": "Peak up alone = airway resistance. Peak AND plateau up = lung or chest wall.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Peak pressure 40, plateau 18. Is it the tube or the lungs? 🫁\n\nComment your pick before the answer 👇\n\nA wide gap between peak and plateau means high resistance: kinked or bitten tube, secretions, or bronchospasm. When peak AND plateau rise together, think compliance: mainstem tube, pneumothorax, insufflation, or chest wall.\n\n📌 Save this for your next ventilator alarm.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #MechanicalVentilation #AirwayManagement #CAA #CRNA #SRNA #AnesthesiaStudent #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-12",
+  "format": "reel",
+  "vitals": [
+   {"label": "TOF RATIO", "value": "0.6", "alarm": true},
+   {"label": "SpO2", "value": "98%"},
+   {"label": "RR", "value": "14"}
+  ],
+  "scene": "End of case. Strong hand grip, 5-second head lift.",
+  "question": "Extubate?",
+  "options": ["Yes, signs look good", "Not yet: TOFR < 0.9", "Wait for 4 twitches", "Deepen and extubate"],
+  "answer": "B. Not yet",
+  "why": "Grip and head lift can look normal with a TOF ratio well below 0.9. Residual block raises the risk of aspiration and post-op hypoxemia. Reverse per your plan and confirm a quantitative TOF ratio of 0.9 or more.",
+  "pearl": "Clinical signs miss residual block. Measure it, don't guess.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Strong hand grip, 5-second head lift, but the quantitative TOF ratio reads 0.6. Do you pull the tube? 💪\n\nComment your pick before the answer 👇\n\nClinical tests miss residual neuromuscular block. A TOF ratio below 0.9 still means weak pharyngeal muscles and higher aspiration and hypoxemia risk. Reverse per your plan and confirm TOFR ≥ 0.9 with quantitative monitoring before extubation.\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards, on Amazon (link in bio).\n\n#Anesthesia #NeuromuscularBlockade #TOF #Extubation #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-13",
+  "format": "carousel",
+  "slides": [
+   {"kind": "cover", "tag": "Ventilator basics", "title": "Plateau minus PEEP. The number that predicts lung stress.", "sub": "Driving pressure and auto-PEEP, in one swipe."},
+   {"header": "Driving pressure", "big": "Plateau - PEEP", "body": "It shows tidal volume relative to the lung that is actually open. Lower is generally safer. Many lung-protective targets aim for under about 15 cmH2O."},
+   {"header": "Measure it right", "bullets": ["Inspiratory hold for plateau", "Expiratory hold for total PEEP", "Patient must be passive", "Recheck after every change"]},
+   {"header": "Auto-PEEP", "big": "Air that never got out", "body": "The next breath starts before the lungs empty. Common with COPD, asthma, fast rates and short expiratory times."},
+   {"header": "Spot it", "bullets": ["Expiratory flow doesn't return to zero", "Expiratory hold shows PEEP above set", "Rising pressures, falling BP"], "pearl": "Sudden hypotension with air trapping? Briefly disconnect and let the patient exhale."},
+   {"header": "Fix it", "bullets": ["Lower the respiratory rate", "Lengthen expiratory time", "Treat bronchospasm", "Avoid large tidal volumes"]},
+   {"kind": "cta", "title": "Plateau. PEEP. Flow curve.", "body": "Check all three every time the pressures change.", "button": "SAVE FOR YOUR ROTATION"}
+  ],
+  "caption": "Your plateau is fine, but is your driving pressure? 📈\n\nSwipe for the essentials: driving pressure = plateau - PEEP, measured with a passive patient → why lower is generally safer → how to spot auto-PEEP on the flow curve and an expiratory hold → how to fix it with a slower rate and longer exhale.\n\n💡 Hypotension with air trapping: a brief disconnect lets the trapped air out.\n\n📌 Save this and tag your OR partner.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #MechanicalVentilation #DrivingPressure #AutoPEEP #CAA #CRNA #SRNA #AnesthesiaStudent #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-14",
+  "format": "reel",
+  "vitals": [
+   {"label": "BP", "value": "68/34", "alarm": true},
+   {"label": "HR", "value": "128", "alarm": true},
+   {"label": "SpO2", "value": "89%", "alarm": true}
+  ],
+  "scene": "3 min after the antibiotic. Wheeze, rising peak pressure, flushed skin.",
+  "question": "First drug?",
+  "options": ["Diphenhydramine", "Epinephrine", "Hydrocortisone", "Albuterol"],
+  "answer": "B. Epinephrine",
+  "why": "This is anaphylaxis until proven otherwise. Stop the trigger, call for help, 100% O2, fluids, and give epinephrine early. Antihistamines and steroids are adjuncts. Send a tryptase.",
+  "pearl": "Antihistamines won't fix the airway or the BP. Epinephrine does.",
+  "cta": "SAVE FOR YOUR ROTATION",
+  "caption": "Three minutes after the antibiotic: BP 68/34, wheezing, SpO2 falling. What's your first drug? 🚨\n\nComment your pick before the answer 👇\n\nTreat it as anaphylaxis: stop the trigger, call for help, 100% O2, fluids, and epinephrine early. Antihistamines and steroids are second-line adjuncts. Send a tryptase and refer for allergy testing.\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards, on Amazon (link in bio).\n\n#Anesthesia #Anaphylaxis #Epinephrine #OREmergency #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ }
+]
