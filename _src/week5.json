@@ -1,0 +1,96 @@
+[
+ {
+  "date": "2026-11-16",
+  "format": "reel",
+  "vitals": [
+   {"label": "APNEA", "value": "6 min", "alarm": true},
+   {"label": "SpO2", "value": "99%"},
+   {"label": "HR", "value": "88"}
+  ],
+  "scene": "Difficult intubation with apneic oxygenation. SpO2 still 99%.",
+  "question": "What is rising?",
+  "options": ["Hemoglobin", "PaCO2", "PaO2", "Lactate"],
+  "answer": "B. PaCO2",
+  "why": "Oxygen keeps flowing in, but nothing clears CO2. PaCO2 jumps in the first minute of apnea, then keeps climbing about 3 mmHg a minute, so pH falls while SpO2 looks perfect.",
+  "pearl": "Oxygenation is not ventilation. A great SpO2 can hide a rising CO2.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Six minutes of apnea and the SpO2 is still 99%. So what's quietly climbing? 🫁\n\nComment your pick before the answer 👇\n\nApneic oxygenation keeps oxygen moving in, but nothing washes CO2 out. PaCO2 rises fast in the first minute, then roughly 3 mmHg every minute after, and the pH drifts down even while the oximeter looks perfect.\n\n📌 Save this for your airway rotation.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #AirwayManagement #ApneicOxygenation #Capnography #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-17",
+  "format": "carousel",
+  "slides": [
+   {"kind": "cover", "tag": "Crisis physiology", "title": "The RV can't take a sudden pressure load.", "sub": "Acute RV failure and massive PE: recognize it, protect perfusion."},
+   {"header": "Why the RV fails", "big": "Thin wall, low pressure", "body": "A sudden rise in PVR dilates the RV, pushes the septum left and underfills the LV. Output falls, and so does RV coronary perfusion."},
+   {"header": "Suspect massive PE", "bullets": ["Sudden hypotension and hypoxemia", "Abrupt drop in ETCO2", "Rising CVP, distended neck veins", "Dilated RV, flattened septum on echo"]},
+   {"header": "Protect the RV", "bullets": ["Keep systemic BP up: vasopressor early", "Avoid large fluid boluses", "Avoid hypoxia, hypercarbia, acidosis", "Limit high airway pressures"], "pearl": "A dilated RV rarely needs more volume. It needs pressure and lower PVR."},
+   {"header": "Treat the clot", "body": "Call for help early. Options include thrombolysis, catheter-directed therapy, surgical embolectomy or ECMO, per your PE team and institution."},
+   {"kind": "cta", "title": "Pressure, not volume.", "body": "Support the RV before it spirals.", "button": "SAVE FOR YOUR ROTATION"}
+  ],
+  "caption": "Sudden hypotension, SpO2 falling, ETCO2 dropping off a cliff. Is the right ventricle giving out? 🫀\n\nSwipe for the essentials: why a thin-walled RV fails under a sudden pressure load → how massive PE shows up in the OR → how to protect the RV with early vasopressor support, not big fluid boluses → when to call for definitive clot treatment.\n\n💡 A dilated RV pushes the septum into the LV. More volume can make output worse.\n\n📌 Save this and tag your OR partner.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #RVFailure #PulmonaryEmbolism #Hemodynamics #CAA #CRNA #SRNA #AnesthesiaStudent #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-18",
+  "format": "reel",
+  "vitals": [
+   {"label": "ETCO2", "value": "64", "alarm": true},
+   {"label": "HR", "value": "124", "alarm": true},
+   {"label": "FiCO2", "value": "0"}
+  ],
+  "scene": "Sevo case. ETCO2 climbing despite double the ventilation.",
+  "question": "Most likely cause?",
+  "options": ["Exhausted absorbent", "Malignant hyperthermia", "Light anesthesia", "Hypoventilation"],
+  "answer": "B. Malignant hyperthermia",
+  "why": "FiCO2 of 0 rules out the absorbent, and more ventilation should have brought ETCO2 down. Rising ETCO2 plus tachycardia under a volatile is MH until proven otherwise: stop triggers, call for help, give dantrolene.",
+  "pearl": "Check FiCO2 first. If it's zero, the CO2 is coming from the patient.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "You doubled the minute ventilation and the ETCO2 is still climbing. Inspired CO2 is zero. What now? 🔥\n\nComment your pick before the answer 👇\n\nA zero FiCO2 rules out exhausted absorbent, and more ventilation should have lowered the number. Rising ETCO2 with tachycardia under a volatile is malignant hyperthermia until proven otherwise: stop triggers, call for help, 100% O2 at high flow, and get dantrolene.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #MalignantHyperthermia #Capnography #ETCO2 #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-19",
+  "format": "reel",
+  "vitals": [
+   {"label": "BP", "value": "74/40", "alarm": true},
+   {"label": "HR", "value": "112", "alarm": true},
+   {"label": "ETCO2", "value": "48"}
+  ],
+  "scene": "Tourniquet just released after a 2-hour knee case.",
+  "question": "Most likely cause?",
+  "options": ["Anaphylaxis", "Limb reperfusion", "Pneumothorax", "Light anesthesia"],
+  "answer": "B. Limb reperfusion",
+  "why": "Release sends cold, acidotic, CO2-rich blood back from the limb and drops SVR. Expect a transient fall in BP with a rise in ETCO2 and potassium. Have volume and a vasopressor ready.",
+  "pearl": "Warn the team before the tourniquet goes down, not after.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Tourniquet down after two hours, and the BP drops to 74/40 while the ETCO2 creeps up. What just happened? 🦵\n\nComment your pick before the answer 👇\n\nTourniquet release washes cold, acidotic, CO2-rich blood back into the circulation and drops SVR. Expect a transient fall in BP, a rise in ETCO2 and potassium, and sometimes emboli. Have volume and a vasopressor ready, and bump the ventilation.\n\n📌 Save this for your ortho rotation.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #Tourniquet #OrthoAnesthesia #Hemodynamics #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-20",
+  "format": "carousel",
+  "slides": [
+   {"kind": "cover", "tag": "Airway emergency", "title": "Can't intubate. Can't oxygenate. Now what?", "sub": "When to move to front-of-neck access."},
+   {"header": "Declare it", "big": "Say CICO out loud", "body": "Intubation, supraglottic airway and face mask have failed, and SpO2 is falling. Naming it moves the whole team."},
+   {"header": "Before the knife", "bullets": ["Call for help and the airway cart", "Ensure full neuromuscular block", "Keep giving 100% O2 from above", "Extend the neck, find the membrane"]},
+   {"header": "Scalpel-bougie-tube", "bullets": ["Transverse stab through the membrane", "Rotate the blade 90 degrees", "Slide a bougie along the blade", "Railroad a 6.0 cuffed tube, confirm ETCO2"], "pearl": "Can't feel the membrane? Vertical skin incision first, then find it by touch."},
+   {"header": "Don't wait for", "bullets": ["SpO2 to reach zero", "\"One more\" laryngoscopy", "Bradycardia"], "pearl": "Repeated attempts burn time and swell the airway."},
+   {"kind": "cta", "title": "Know the neck before you need it.", "body": "Find the cricothyroid membrane on every airway exam.", "button": "SAVE FOR YOUR ROTATION"}
+  ],
+  "caption": "Failed tube, failed supraglottic, failed mask, and the SpO2 is falling. When do you pick up the scalpel? 🔪\n\nSwipe for the essentials: declare CICO out loud → full neuromuscular block and 100% O2 from above → scalpel-bougie-tube through the cricothyroid membrane → why waiting for one more attempt costs the most.\n\n💡 Can't feel the membrane? A vertical skin incision first, then find it by touch.\n\n📌 Save this and tag your OR partner.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #AirwayManagement #CICO #DifficultAirway #CAA #CRNA #SRNA #AnesthesiaStudent #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-21",
+  "format": "reel",
+  "vitals": [
+   {"label": "PLT", "value": "82k", "alarm": true},
+   {"label": "BP", "value": "162/104", "alarm": true},
+   {"label": "HR", "value": "92"}
+  ],
+  "scene": "Preeclampsia, laboring. Platelets 104k this morning, now 82k.",
+  "question": "Epidural now?",
+  "options": ["No: below 100k", "Yes, with a recent count", "Transfuse platelets first", "Never in preeclampsia"],
+  "answer": "B. Yes, with a recent count",
+  "why": "SOAP consensus supports neuraxial at 70k or more if there's no other coagulopathy or antithrombotic. With a falling trend, use a fresh count and place it early, before the window closes.",
+  "pearl": "The trend matters as much as the number. An early epidural can avoid a crash GA.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Preeclampsia, platelets 104k this morning and 82k now. Do you place the epidural? 🤰\n\nComment your pick before the answer 👇\n\nThe SOAP consensus supports neuraxial at 70,000 or more when there's no other coagulopathy and no antithrombotic on board. With a falling count, get a recent value and place it early: a working epidural can spare her a general anesthetic and a difficult airway later.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #OBAnesthesia #Preeclampsia #LaborEpidural #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ }
+]

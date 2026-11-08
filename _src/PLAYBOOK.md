@@ -14,6 +14,7 @@ Owner: Andrea Regan, CAA (30+ yrs clinical anesthesia, AA program faculty). Audi
 - Book map: airway/hemodynamics → Anesthesia & Critical Care: Quick Charts; trauma/capnography/hemorrhage → Trauma Anesthesia Pocket Guide; drugs → Visual Anesthesia Medication Study Cards or Anesthesia Coloring Book; first-year basics → Basic Fundamentals of Beginner Anesthesia or Anesthesiologist Assistant Get a Jump Start; study-life → Anesthesia Student Planner, Clinical Logbook Vol. 1/2.
 - Website/app: say "coming soon" only. Never give a launch date; never link the old Netlify site. The app banner on the new site says "Launching 2027".
 - Educator/OSCE/talking-head ideas need Andrea on camera: replace them with a Quick Case and list the idea in the weekly summary for her to film.
+- Andrea approved (Nov 8): the 10:00 posts may share a date with her separate 7 PM board-style Reel series. Still never put two 10:00 posts on one date.
 - isAiGenerated false (programmatic graphics, no AI imagery). autoPublish true.
 
 ## Remaining calendar (adjust using last week's Metricool data)
@@ -30,13 +31,12 @@ Owner: Andrea Regan, CAA (30+ yrs clinical anesthesia, AA program faculty). Audi
 | Thu Nov 12 | Quick Case | Strong hand grip, 5-second head lift. Extubate? (quantitative TOF) |
 | Fri Nov 13 | Carousel | Driving pressure and auto-PEEP |
 | Sat Nov 14 | Quick Case | Hypotension + wheeze 3 min after the antibiotic (anaphylaxis) |
-| Mon Nov 16 | Quick Case | HCM, post-induction hypotension. Ephedrine? |
+| Mon Nov 16 | Quick Case | Apneic, SpO2 holding 99%. What is rising? (moved up; HCM dropped, overlaps 7 PM LVOT Reel) |
 | Tue Nov 17 | Carousel | Acute RV failure and massive PE |
 | Wed Nov 18 | Quick Case | Rising ETCO2 despite more minute ventilation (MH vs other) |
 | Thu Nov 19 | Quick Case | Sudden hypotension after tourniquet release |
-| Fri Nov 20 | Carousel | Anesthesia Student Planner: a week inside |
+| Fri Nov 20 | Carousel | CICO: when to move to front-of-neck access (moved up; product posts get low reach) |
 | Sat Nov 21 | Quick Case | Preeclampsia, platelets 82k and falling. Epidural now? |
-| Mon Nov 23 | Quick Case | Apneic, SpO2 holding 99%. What is rising? |
-| Tue Nov 24 | Carousel | CICO: when to move to front-of-neck access |
+| Mon Nov 23+ | Carousel option | Anesthesia Student Planner: a week inside (deferred) |
 | Wed Nov 25 | Quick Case | 82-year-old, burst suppression on EEG. Next move? |
 After Nov 25: keep the same mix; pick topics from the strongest-performing themes and the ASC book list.
