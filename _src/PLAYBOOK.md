@@ -1,6 +1,6 @@
 # ASC Instagram autopilot playbook
 
-Account: @anesthesiastudyco · Metricool brand id 6389044 · timezone America/New_York · post at 10:00.
+Account: @anesthesiastudyco · Metricool brand id 6389044 · timezone America/New_York · post at 12:00 (noon). Instagram audience insights (Nov 15): followers most active 9 AM-9 PM, peak Tue/Fri/Sat 12-3 PM. Keep the 7 PM board-style series where it is so the two daily posts stay spaced.
 Owner: Andrea Regan, CAA (30+ yrs clinical anesthesia, AA program faculty). Audience: AA/CAA, SRNA/CRNA students and new grads.
 
 ## Formats (see gen.py)
@@ -14,7 +14,7 @@ Owner: Andrea Regan, CAA (30+ yrs clinical anesthesia, AA program faculty). Audi
 - Book map: airway/hemodynamics → Anesthesia & Critical Care: Quick Charts; trauma/capnography/hemorrhage → Trauma Anesthesia Pocket Guide; drugs → Visual Anesthesia Medication Study Cards or Anesthesia Coloring Book; first-year basics → Basic Fundamentals of Beginner Anesthesia or Anesthesiologist Assistant Get a Jump Start; study-life → Anesthesia Student Planner, Clinical Logbook Vol. 1/2.
 - Website/app: say "coming soon" only. Never give a launch date; never link the old Netlify site. The app banner on the new site says "Launching 2027".
 - Educator/OSCE/talking-head ideas need Andrea on camera: replace them with a Quick Case and list the idea in the weekly summary for her to film.
-- Andrea approved (Nov 8): the 10:00 posts may share a date with her separate 7 PM board-style Reel series. Still never put two 10:00 posts on one date.
+- Andrea approved (Nov 8): the 12:00 posts may share a date with her separate 7 PM board-style Reel series. Still never put two 12:00 posts on one date.
 - isAiGenerated false (programmatic graphics, no AI imagery). autoPublish true.
 
 ## Remaining calendar (adjust using last week's Metricool data)
