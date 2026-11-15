@@ -1,0 +1,96 @@
+[
+ {
+  "date": "2026-11-23",
+  "format": "reel",
+  "vitals": [
+   {"label": "HR", "value": "38", "alarm": true},
+   {"label": "BP", "value": "88/50", "alarm": true},
+   {"label": "SpO2", "value": "98%"}
+  ],
+  "scene": "Second dose of succinylcholine for laryngospasm. HR drops to 38.",
+  "question": "Most likely cause?",
+  "options": ["Hyperkalemia", "Muscarinic stimulation", "Malignant hyperthermia", "Anaphylaxis"],
+  "answer": "B. Muscarinic stimulation",
+  "why": "Succinylcholine is two acetylcholine molecules joined together, so it also stimulates cardiac muscarinic receptors. Bradycardia is more likely with a repeat dose and in children. Treat with atropine.",
+  "pearl": "Giving a second dose? Have atropine drawn up first.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Second dose of succinylcholine for laryngospasm, and the heart rate drops to 38. Why? 💉\n\nComment your pick before the answer 👇\n\nSuccinylcholine is two acetylcholine molecules joined together, so it doesn't just hit the neuromuscular junction: it stimulates cardiac muscarinic receptors too. Bradycardia is more likely with a repeat dose and in children. Atropine is the fix, and many clinicians have it ready before re-dosing.\n\n📌 Save this for your next airway case.\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards, on Amazon (link in bio).\n\n#Anesthesia #Succinylcholine #Pharmacology #Bradycardia #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-24",
+  "format": "carousel",
+  "slides": [
+   {"kind": "cover", "tag": "Drug pearls", "title": "Neostigmine or sugammadex?", "sub": "How each reversal agent works, and when it falls short."},
+   {"header": "Neostigmine", "big": "More ACh at the junction", "body": "It inhibits acetylcholinesterase so acetylcholine can outcompete the relaxant. It has a ceiling: it can't reverse deep block."},
+   {"header": "Neostigmine needs", "bullets": ["Some spontaneous recovery first", "An anticholinergic with it (glycopyrrolate)", "Time: full effect takes about 10 minutes", "Works on any nondepolarizing relaxant"]},
+   {"header": "Sugammadex", "big": "Encapsulates the drug", "bullets": ["Binds rocuronium and vecuronium", "No effect on cisatracurium or succinylcholine", "Dose depends on depth of block", "Counsel on hormonal contraception"]},
+   {"header": "Either way", "body": "Reversal is not the endpoint. Confirm a TOF ratio of 0.9 or more with quantitative monitoring before extubation.", "pearl": "Residual block hides behind a strong hand grip."},
+   {"kind": "cta", "title": "Reverse it. Then measure it.", "body": "Know which agent fits the block in front of you.", "button": "SAVE FOR YOUR ROTATION"}
+  ],
+  "caption": "Neostigmine or sugammadex: do you know why one can't reverse a deep block? 💊\n\nSwipe for the essentials: neostigmine boosts acetylcholine and has a ceiling → why it needs some recovery first and glycopyrrolate alongside → how sugammadex encapsulates rocuronium and vecuronium (but not cisatracurium or succinylcholine) → why quantitative TOF still decides when the tube comes out.\n\n💡 Sugammadex can reduce the effect of hormonal contraceptives. Counsel patients per your institution's policy.\n\n📌 Save this and tag your OR partner.\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards, on Amazon (link in bio).\n\n#Anesthesia #Sugammadex #Neostigmine #NeuromuscularBlockade #Pharmacology #CAA #CRNA #SRNA #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-25",
+  "format": "reel",
+  "vitals": [
+   {"label": "BSR", "value": "40%", "alarm": true},
+   {"label": "BP", "value": "96/52"},
+   {"label": "AGE", "value": "82"}
+  ],
+  "scene": "82-year-old, steady sevo, quiet part of the case. EEG shows burst suppression.",
+  "question": "Next move?",
+  "options": ["Increase the volatile", "Lighten the anesthetic", "Give midazolam", "Ignore it"],
+  "answer": "B. Lighten the anesthetic",
+  "why": "Older brains need less anesthetic for the same effect. If the patient is stable and stimulation allows, reduce the volatile and recheck the EEG. Also rule out low blood pressure as a cause.",
+  "pearl": "Burst suppression in older adults is linked to postoperative delirium.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "82 years old, steady sevo, quiet part of the case, and the EEG is in burst suppression. What's your move? 🧠\n\nComment your pick before the answer 👇\n\nOlder brains need less anesthetic for the same effect. If the patient is stable and the surgical stimulus allows, lighten the anesthetic and watch the raw EEG recover. Check the blood pressure too: hypoperfusion can suppress the EEG. Burst suppression in older adults is linked to postoperative delirium.\n\n📌 Save this for your geriatric cases.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #ProcessedEEG #BurstSuppression #GeriatricAnesthesia #Delirium #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-26",
+  "format": "reel",
+  "vitals": [
+   {"label": "BP", "value": "168/108", "alarm": true},
+   {"label": "EBL", "value": "1200 mL", "alarm": true},
+   {"label": "HR", "value": "118", "alarm": true}
+  ],
+  "scene": "Preeclampsia, uterine atony after delivery. Oxytocin is already running.",
+  "question": "Which one do you avoid?",
+  "options": ["More oxytocin", "Methylergonovine", "Carboprost", "Misoprostol"],
+  "answer": "B. Methylergonovine",
+  "why": "Methylergonovine is a potent vasoconstrictor and can cause severe hypertension, so it's avoided in preeclampsia and chronic hypertension. Carboprost is the one to avoid in asthma.",
+  "pearl": "Ergot for atony? Check the blood pressure first.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Preeclampsia, BP 168/108, and the uterus won't contract after delivery. Which uterotonic stays in the drawer? 🤰\n\nComment your pick before the answer 👇\n\nMethylergonovine is a potent vasoconstrictor that can spike the blood pressure, so it's avoided in preeclampsia and chronic hypertension. Carboprost is the one to avoid in asthma because it can trigger bronchospasm. Know the contraindication for each before the hemorrhage starts.\n\n📌 Save this for your OB rotation.\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards, on Amazon (link in bio).\n\n#Anesthesia #OBAnesthesia #PostpartumHemorrhage #Preeclampsia #Uterotonics #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-27",
+  "format": "carousel",
+  "slides": [
+   {"kind": "cover", "tag": "Airway basics", "title": "Preoxygenation buys you time. Do it right.", "sub": "Fill the lungs with oxygen before the apnea starts."},
+   {"header": "The goal", "big": "End-tidal O2 of 0.9 or more", "body": "You're replacing nitrogen in the functional residual capacity with oxygen. The FRC is the reservoir that keeps SpO2 up during apnea."},
+   {"header": "How", "bullets": ["Tight mask seal: no leak", "100% O2 at high fresh gas flow", "3 minutes of tidal breathing", "Or 8 deep breaths over 60 seconds"]},
+   {"header": "Who desaturates fast", "bullets": ["Obesity and pregnancy", "Critical illness and sepsis", "Children", "Lung disease"], "pearl": "Head up 20-25 degrees helps the FRC in obese patients."},
+   {"header": "Extend the time", "bullets": ["CPAP or PEEP during preoxygenation", "Nasal oxygen during laryngoscopy", "High-flow nasal oxygen where available"]},
+   {"kind": "cta", "title": "Seal. Flow. Time.", "body": "Watch the end-tidal O2, not the clock.", "button": "SAVE FOR YOUR ROTATION"}
+  ],
+  "caption": "Three minutes on the mask: is that enough preoxygenation? Watch the end-tidal O2, not the clock. 🫁\n\nSwipe for the essentials: target an end-tidal O2 of 0.9 or more → tight seal, high flow, tidal breathing or 8 deep breaths → who desaturates fastest → head-up positioning, CPAP and nasal oxygen to stretch your safe apnea time.\n\n💡 A mask leak lets room air in. No seal, no reservoir.\n\n📌 Save this and tag your OR partner.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #AirwayManagement #Preoxygenation #ApneicOxygenation #CAA #CRNA #SRNA #AnesthesiaStudent #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-11-28",
+  "format": "reel",
+  "vitals": [
+   {"label": "BP", "value": "72/38", "alarm": true},
+   {"label": "HR", "value": "128", "alarm": true},
+   {"label": "QTc", "value": "520", "alarm": true}
+  ],
+  "scene": "Trauma, massive transfusion. Ten units in, BP falling, QT lengthening.",
+  "question": "What's low?",
+  "options": ["Potassium", "Ionized calcium", "Sodium", "Glucose"],
+  "answer": "B. Ionized calcium",
+  "why": "Citrate in stored blood binds calcium, and the liver can't clear it fast enough in shock. Low ionized calcium weakens contraction, lowers vascular tone and worsens coagulopathy. Check it early and replace it.",
+  "pearl": "In massive transfusion, check ionized calcium early and often.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Ten units into a massive transfusion: BP falling, QT stretching out. What's quietly dropping? 🩸\n\nComment your pick before the answer 👇\n\nCitrate in stored blood binds calcium, and a shocked liver can't clear it fast enough. Low ionized calcium weakens the heart, drops vascular tone and makes coagulopathy worse. Check it early, check it often, and replace it per your massive transfusion protocol.\n\n📌 Save this for your trauma rotation.\n\n📚 Go deeper: Trauma Anesthesia Pocket Guide, on Amazon (link in bio).\n\n#Anesthesia #TraumaAnesthesia #MassiveTransfusion #Hypocalcemia #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ }
+]
