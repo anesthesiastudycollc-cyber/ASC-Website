@@ -1,0 +1,96 @@
+[
+ {
+  "date": "2026-11-30",
+  "format": "reel",
+  "vitals": [
+   {"label": "ETCO2", "value": "0", "alarm": true},
+   {"label": "SpO2", "value": "97%"},
+   {"label": "HR", "value": "92"}
+  ],
+  "scene": "Just intubated. You think the chest is rising, but the capnograph shows no waveform.",
+  "question": "First assumption?",
+  "options": ["Broken capnograph", "Esophageal intubation", "Bronchospasm", "Cardiac arrest"],
+  "answer": "B. Esophageal intubation",
+  "why": "A sustained ETCO2 waveform is how we confirm the tube is in the trachea. No CO2 means esophageal until proven otherwise. If in doubt, take it out and oxygenate. SpO2 lags after good preoxygenation.",
+  "pearl": "No trace = wrong place. A normal SpO2 does not prove the tube is right.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Fresh intubation, the chest looks like it's moving, and the capnograph is flat. What do you assume first? 📉\n\nComment your pick before the answer 👇\n\nA sustained ETCO2 waveform is the standard for confirming tracheal placement. No CO2 means esophageal intubation until proven otherwise: if in doubt, take it out and oxygenate. The SpO2 can stay normal for minutes after good preoxygenation, so it won't warn you in time. No trace = wrong place.\n\n📌 Save this for your airway rotation.\n\n📚 Go deeper: Trauma Anesthesia Pocket Guide, on Amazon (link in bio).\n\n#Anesthesia #Capnography #AirwayManagement #Intubation #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-12-01",
+  "format": "carousel",
+  "slides": [
+   {"kind": "cover", "tag": "Airway crisis", "title": "Laryngospasm: the stepwise fix", "sub": "Stridor at emergence, then silence. Here's your plan."},
+   {"header": "Recognize it", "bullets": ["Stridor, or no air movement at all", "Chest and belly rocking", "Stiff bag, no capnograph trace", "SpO2 starting to fall"]},
+   {"header": "First moves", "bullets": ["Stop the stimulus: suction, pause surgery", "100% O2, tight mask seal, CPAP", "Jaw thrust and firm pressure at Larson's point", "Call for help"]},
+   {"header": "Not breaking?", "bullets": ["Deepen anesthesia, often with propofol", "Succinylcholine if SpO2 keeps falling", "Atropine ready, especially in children"]},
+   {"header": "After it breaks", "body": "Watch for negative-pressure pulmonary edema: pink frothy secretions and hypoxemia, sometimes hours later.", "pearl": "Extubate fully awake or deep, not in between."},
+   {"kind": "cta", "title": "Stimulus off. CPAP on. Deepen.", "body": "Have the plan before every extubation.", "button": "SAVE FOR YOUR ROTATION"}
+  ],
+  "caption": "Stridor at emergence, then nothing moves. Do you know your next three steps for laryngospasm? 🫁\n\nSwipe for the essentials: how to recognize it fast → stop the stimulus, 100% O2 with CPAP, jaw thrust at Larson's point → deepen the anesthetic, and succinylcholine if the SpO2 keeps falling → why you keep watching for negative-pressure pulmonary edema after it breaks.\n\n💡 Children desaturate fast. Have atropine ready if you give succinylcholine.\n\n📌 Save this and tag your OR partner.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #Laryngospasm #AirwayManagement #Emergence #PediatricAnesthesia #CAA #CRNA #SRNA #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-12-02",
+  "format": "reel",
+  "vitals": [
+   {"label": "HR", "value": "42", "alarm": true},
+   {"label": "BP", "value": "84/46", "alarm": true},
+   {"label": "SpO2", "value": "99%"}
+  ],
+  "scene": "Pediatric strabismus surgery. The surgeon pulls on the medial rectus. HR drops to 42.",
+  "question": "First move?",
+  "options": ["Give epinephrine", "Ask to release traction", "Start compressions", "Turn up the volatile"],
+  "answer": "B. Ask to release traction",
+  "why": "Traction on the eye muscles triggers the oculocardiac reflex: trigeminal in, vagus out. Releasing traction usually brings the rate back. If it persists or keeps recurring, give atropine and check depth and ventilation.",
+  "pearl": "Hypercarbia, hypoxemia and light anesthesia make the reflex worse.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Strabismus surgery, the surgeon tugs on the medial rectus, and the heart rate falls to 42. What's your first move? 👁️\n\nComment your pick before the answer 👇\n\nTraction on the extraocular muscles fires the oculocardiac reflex: trigeminal afferents in, vagal efferents out. Say it out loud and ask the surgeon to release traction; the rate usually recovers. If it persists or keeps coming back, give atropine and check your depth and ventilation.\n\n📌 Save this for your peds and eye rotation.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #OculocardiacReflex #PediatricAnesthesia #Bradycardia #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-12-03",
+  "format": "reel",
+  "vitals": [
+   {"label": "SpO2", "value": "89%", "alarm": true},
+   {"label": "RR", "value": "30", "alarm": true},
+   {"label": "HR", "value": "118", "alarm": true}
+  ],
+  "scene": "PACU, 2 hours after thyroidectomy. Neck swelling, new stridor, patient anxious.",
+  "question": "Priority?",
+  "options": ["Nebulized epinephrine", "Open the wound now", "CT of the neck", "Give furosemide"],
+  "answer": "B. Open the wound now",
+  "why": "An expanding hematoma compresses the airway and swells the larynx. Call for help, give oxygen, open the skin and muscle sutures at the bedside to release the clot, then secure the airway. Expect a difficult intubation.",
+  "pearl": "Neck surgery in PACU? Know where the suture removal kit is.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Two hours after a thyroidectomy: swelling neck, new stridor, SpO2 89%. What comes first? 🚨\n\nComment your pick before the answer 👇\n\nAn expanding hematoma compresses the airway and causes laryngeal swelling. Call for help and give oxygen, then open the skin and muscle sutures at the bedside to release the clot, before heading to the OR. Plan for a difficult airway even after decompression.\n\n📌 Save this for your PACU and ENT days.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #AirwayEmergency #NeckHematoma #Thyroidectomy #PACU #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-12-04",
+  "format": "carousel",
+  "slides": [
+   {"kind": "cover", "tag": "Thoracic", "title": "SpO2 falling on one-lung ventilation", "sub": "A stepwise fix you can run in your head."},
+   {"header": "First", "big": "100% O2. Say it out loud.", "body": "Tell the surgeon. Severe or rapid desaturation? Go back to two-lung ventilation."},
+   {"header": "Check the tube", "bullets": ["Bronchoscope to confirm position", "Suction secretions and blood", "Look for kinks or dislodgement"]},
+   {"header": "Ventilated lung", "bullets": ["Recruitment maneuver", "Add or adjust PEEP", "Rule out low cardiac output"]},
+   {"header": "Other lung", "bullets": ["CPAP or O2 to the collapsed lung", "Intermittent two-lung breaths", "Surgeon can clamp the PA if appropriate"], "pearl": "Deep volatile and vasodilators can blunt hypoxic pulmonary vasoconstriction."},
+   {"kind": "cta", "title": "Tube. Lung. Other lung.", "body": "Run the same order every time.", "button": "SAVE FOR YOUR ROTATION"}
+  ],
+  "caption": "One lung down, SpO2 sliding toward 88%. What's your order of operations? 🫁\n\nSwipe for the essentials: 100% O2 and tell the surgeon → confirm the tube with a bronchoscope → recruit and add PEEP to the ventilated lung → CPAP to the collapsed lung, intermittent two-lung breaths, or a PA clamp from the surgeon.\n\n💡 Severe or rapid desaturation? Go straight back to two-lung ventilation.\n\n📌 Save this and tag your OR partner.\n\n📚 Go deeper: Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #ThoracicAnesthesia #OneLungVentilation #Hypoxemia #CAA #CRNA #SRNA #AnesthesiaStudent #ClinicalPearls #AnesthesiaStudyCo"
+ },
+ {
+  "date": "2026-12-05",
+  "format": "reel",
+  "vitals": [
+   {"label": "K+", "value": "7.2", "alarm": true},
+   {"label": "HR", "value": "46", "alarm": true},
+   {"label": "QRS", "value": "WIDE", "alarm": true}
+  ],
+  "scene": "Day 10 after a 40% burn. Rapid sequence with succinylcholine. Peaked T waves, then a wide QRS.",
+  "question": "What happened?",
+  "options": ["Malignant hyperthermia", "Upregulated ACh receptors", "Anaphylaxis", "Myocardial ischemia"],
+  "answer": "B. Upregulated ACh receptors",
+  "why": "After burns, denervation or long immobility, extra acetylcholine receptors spread across the muscle. Succinylcholine opens all of them and potassium surges. Give calcium first to protect the heart, then shift potassium.",
+  "pearl": "Burns: succinylcholine is generally fine in the first 24 hours. After that, avoid it.",
+  "cta": "COMMENT YOUR PICK",
+  "caption": "Day 10 after a major burn, succinylcholine for RSI, and the T waves peak before the QRS widens. What happened? ⚡\n\nComment your pick before the answer 👇\n\nBurns, denervation and prolonged immobility spread extra acetylcholine receptors across the muscle membrane. Succinylcholine opens every one of them and potassium floods out. Calcium first to stabilize the heart, then shift the potassium. Use a nondepolarizing relaxant for these patients after the first day.\n\n📌 Save this for your burn and trauma cases.\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards, on Amazon (link in bio).\n\n#Anesthesia #Succinylcholine #Hyperkalemia #BurnAnesthesia #Pharmacology #CAA #CRNA #SRNA #QuickCase #AnesthesiaStudyCo"
+ }
+]
