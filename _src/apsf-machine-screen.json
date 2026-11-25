@@ -1,0 +1,18 @@
+[
+ {"date":"tiktok","format":"reel",
+  "vitals":[{"label":"VENT","value":"OFF","alarm":true},{"label":"AGENT","value":"--","alarm":true},{"label":"SpO2","value":"98%"}],
+  "scene":"Mid-case, the machine screen goes black. The ventilator stops.",
+  "question":"First move?",
+  "options":["Wait for the reboot","Bag + switch to TIVA","Turn up the vaporizer","Pull the plug & restart"],
+  "answer":"B. Bag + switch to TIVA",
+  "why":"Losing the display can stop the ventilator and the volatile. Hand-ventilate (alternate O2 or a self-inflating bag), go to IV anesthesia, call for help. Then check behind the screen: a loose cable screw.",
+  "pearl":"A checklist can't see a loose screw. Your backup bag and TIVA plan can save the case.",
+  "cta":"COMMENT YOUR PICK"},
+ {"date":"instagram","format":"carousel","slides":[
+  {"kind":"cover","tag":"Machine safety","title":"The machine screen just went dark","sub":"Two real cases from the APSF. Here's your plan."},
+  {"header":"What happened","bullets":["The display lost power mid-case","The ventilator stopped","All vent readings disappeared","Volatile agent unavailable"]},
+  {"header":"The cause","body":"A loose screw on the power cable behind the display. Moving the monitor arm was enough to break the connection.","pearl":"Both teams fixed it by reseating the cable, and no patient was harmed."},
+  {"header":"Your first moves","bullets":["Hand-ventilate: alternate O2 or a self-inflating bag","Switch to IV anesthesia (TIVA)","Call for help","Confirm you still have SpO2, BP and ECG"]},
+  {"header":"Why the checks missed it","bullets":["The pre-use check finds a cable that's off, not one about to slip","Cable tightness is a visual item at maintenance","Risk grows as machines age"],"pearl":"Report it to biomed so the whole fleet gets checked."},
+  {"kind":"cta","title":"Bag. TIVA. Help. Then look behind the screen.","body":"Know your machine-failure plan before you need it.","button":"SAVE FOR YOUR ROTATION"}]}
+]
