@@ -1,0 +1,44 @@
+[
+ {
+  "date": "2026-11-30",
+  "format": "brand",
+  "slot": "12:30",
+  "product": "Meet ASC",
+  "label": "SPOTLIGHT",
+  "chip": "Meet ASC",
+  "hook": "Anesthesia school is a lot. Your study tools shouldn't be.",
+  "kicker": "We build the resources we wish we had on day one of clinicals.",
+  "points_title": "What we make",
+  "points": [
+   "Clinical logbooks that track every case, airway and line",
+   "Mind maps and study guides that turn lectures into one page",
+   "Medication cards and quick charts for the OR"
+  ],
+  "mockup": {"type": "meet", "labels": ["Clinical logbooks", "Study guides", "Mind maps", "Medication cards"]},
+  "where": "Books on Amazon · mind maps at anesthesiastudyco.com",
+  "outro": "Organized. Confident. OR-ready.",
+  "tagline": "New Quick Case every night",
+  "caption": "Anesthesia school is a lot. Your study tools shouldn't be. 💉\nWe make logbooks, mind maps, study guides and med cards for AA and CRNA students.\nFollow @anesthesiastudyco for a Quick Case every night.\n\n📚 More: Anesthesia Study Co. on Amazon + anesthesiastudyco.com (link in bio)\n\n#anesthesia #anesthesiastudent #crna #srna #caa #anesthesiastudyco"
+ },
+ {
+  "date": "2026-11-30",
+  "format": "case",
+  "slot": "20:30",
+  "topic": "Preoxygenation: ETO2 target before induction",
+  "series": "Day 1 of Airway Week",
+  "vitals": [
+   {"label": "SpO2", "value": "100%"},
+   {"label": "ETO2", "value": "72%", "alarm": true},
+   {"label": "HR", "value": "78"},
+   {"label": "BP", "value": "132/80"}
+  ],
+  "scene": "Three minutes on the mask before induction. SpO2 is 100%, but end-tidal O2 reads 72%.",
+  "question": "Ready to induce?",
+  "options": ["Yes, SpO2 is 100%", "No: fix the seal, keep going", "Add nasal cannula only", "Give midazolam first"],
+  "correct": "B",
+  "why": "End-tidal O2 below about 90% means nitrogen is still in the lungs, so the oxygen reserve is small. A mask leak is the usual cause. Fix the seal and keep preoxygenating. SpO2 alone can't show the reserve.",
+  "pearl": "Aim for end-tidal O2 of 90% or higher before induction.",
+  "cta": "Comment your pick",
+  "caption": "SpO2 100%. End-tidal O2 72%. Would you induce? 🫁\nDay 1 of Airway Week. Comment A, B, C or D before the reveal 👇\nFollow @anesthesiastudyco so you don't miss Day 2.\n\n📚 More: Anesthesia Study Co. on Amazon + anesthesiastudyco.com (link in bio)\n\n#anesthesia #preoxygenation #anesthesiastudent #crna #srna #caa"
+ }
+]
