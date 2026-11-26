@@ -23,6 +23,9 @@ NAVY_D, NAVY, NAVY_L = (8, 18, 42), (16, 36, 82), (28, 58, 120)
 LBLUE, CYAN, WHITE = (130, 205, 245), (0, 188, 212), (255, 255, 255)
 YELLOW, RED, GREEN, GREY = (255, 214, 0), (240, 72, 72), (0, 230, 118), (150, 165, 195)
 INK = (16, 28, 60)
+SITE = "www.anesthesiastudyco.com"
+HANDLE = "@anesthesia.study.c"
+MORE_LINE = "📚 More at www.anesthesiastudyco.com 🔗 link in bio"
 
 BANNED = [r"\bAndrea\b", r"\bRegan\b", r"\bNSU\b", r"Nova Southeastern", r"(?i)\buniversity\b",
           r"(?i)\bprofessor\b", r"\bNCCAA\b", r"\bNBCRNA\b", r"\bNCE\b", r"\bCDQ\b"]
@@ -110,9 +113,11 @@ def background(label, year, footer_note=True):
     d.text((x, 184), "ANESTHESIA STUDY CO.", font=F("ExtraBold", 32), fill=WHITE, anchor="lm")
     d.text((R, 184), label, font=F("ExtraBold", 28), fill=LBLUE, anchor="rm")
     d.line([(L, 222), (R, 222)], fill=(60, 90, 150), width=2)
+    # WEBSITE FIRST: the URL sits on every frame, just above TikTok's caption overlay.
+    d.text(((L + R) // 2, 1446), SITE, font=F("ExtraBold", 32), fill=YELLOW, anchor="ma")
     note = f"© {year} Anesthesia Study Co. LLC" + (" · Teaching reference, not a medical directive." if footer_note else "")
-    f, ls, _ = fit(note, "Medium", 22, 16, CW, 60)
-    lines_at(d, (L + R) // 2, 1452, ls, f, (170, 190, 225), 1.2, "c")
+    f, ls, _ = fit(note, "Medium", 18, 14, CW, 30)
+    lines_at(d, (L + R) // 2, 1488, ls, f, (170, 190, 225), 1.2, "c")
     return img
 
 
@@ -261,7 +266,7 @@ def mockup(img, box, m):
         for i, lb in enumerate(labs):
             book(x0 + 10 + i * (bw + 25), y0 + 30 + (i % 2) * 30, bw, h - 90, covers[i], lb)
         d.rounded_rectangle((x0 + w // 2 - 150, y1 - 44, x0 + w // 2 + 150, y1 + 4), radius=24, fill=YELLOW)
-        d.text((x0 + w // 2, y1 - 20), title or "ON AMAZON", font=F("ExtraBold", 26), fill=INK, anchor="mm")
+        d.text((x0 + w // 2, y1 - 20), title or "ANESTHESIASTUDYCO.COM", font=F("ExtraBold", 26), fill=INK, anchor="mm")
     elif t in ("bls", "web"):
         bx0, by0, bx1, by1 = x0 + 20, y0 + 20, x1 - 20, y1 - 20
         d.rounded_rectangle((bx0 + 12, by0 + 14, bx1 + 12, by1 + 14), radius=22, fill=shadow)
@@ -474,8 +479,8 @@ def brand(p, out):
             y += 300
         f, ls, h = fit(p.get("outro", "Organized. Confident. OR-ready."), "ExtraBold", 76, 44, CW, 330, 1.12)
         y = lines_at(d, (L + R) // 2, y, ls, f, WHITE, 1.12, "c") + 50
-        pill(d, (L + R) // 2, y + 50, p.get("follow", "FOLLOW @ANESTHESIASTUDYCO"), F("ExtraBold", 40), YELLOW, INK)
-        f2, ls2, _ = fit(p.get("tagline", "Daily Quick Cases · anesthesiastudyco.com"), "SemiBold", 36, 24, CW, 100)
+        pill(d, (L + R) // 2, y + 50, p.get("follow", "FOLLOW " + HANDLE.upper()), F("ExtraBold", 40), YELLOW, INK)
+        f2, ls2, _ = fit(p.get("tagline", "Shop + explore at " + SITE), "SemiBold", 36, 24, CW, 100)
         lines_at(d, (L + R) // 2, y + 150, ls2, f2, LBLUE, 1.2, "c")
     seqs += segment(bg, [el(outro)], 2.6)
 
@@ -523,7 +528,7 @@ def case(p, out):
             y += row
 
     def scene(ly, d):
-        f, ls, h = fit(p["scene"], "ExtraBold", 66, 40, CW, BOT - (mon_top + mon_h + 40), 1.15)
+        f, ls, h = fit(p["scene"], "ExtraBold", 66, 40, CW, BOT - 30 - (mon_top + mon_h + 40), 1.15)
         lines_at(d, L, mon_top + mon_h + 40, ls, f, WHITE, 1.15)
 
     def live(img, d, t):
@@ -626,7 +631,7 @@ def case(p, out):
         d.text((L + 44, top + 48), "CLINICAL PEARL", font=F("ExtraBold", 40), fill=INK, anchor="lm")
         y = lines_at(d, L + 50, top + 136, pls, pf, INK, 1.2) + 90
         pill(d, (L + R) // 2, y + 50, p.get("cta", "SAVE FOR YOUR ROTATION").upper(), F("ExtraBold", 44), CYAN, WHITE, 50, 110)
-        f2, ls2, _ = fit("Follow @anesthesiastudyco for a new case every night", "SemiBold", 36, 24, CW, 100, 1.2)
+        f2, ls2, _ = fit("More cases + study tools at " + SITE, "SemiBold", 36, 24, CW, 100, 1.2)
         lines_at(d, (L + R) // 2, y + 150, ls2, f2, LBLUE, 1.2, "c")
     seqs += segment(bg, [el(pearl)], 5.0)
 
@@ -653,8 +658,12 @@ def check(p):
         errs.append("missing caption")
     elif len(cap.split("\n")[0]) >= 100:
         errs.append("caption hook line must be under 100 characters")
-    if "📚 More: Anesthesia Study Co. on Amazon + anesthesiastudyco.com (link in bio)" not in cap:
+    if MORE_LINE not in cap:
         errs.append("caption missing the 📚 More line")
+    if re.search(r"(?i)amazon|etsy", blob):
+        errs.append("no Amazon/Etsy: send people to the website")
+    if re.search(r"(?i)\b(launch(es|ing)?|available)\b[^.\n]{0,30}\b(20\d\d|january|february|march|april|may|june|july|august|september|october|november|december)\b", blob):
+        errs.append("never give a website/app launch date")
     tags = re.findall(r"#\w+", cap)
     if not 4 <= len(tags) <= 6:
         errs.append(f"caption needs 4-6 hashtags (has {len(tags)})")
@@ -669,12 +678,19 @@ def check(p):
         raise ValueError(f"{p['date']} {p['format']}: " + "; ".join(errs))
 
 
-def contact_sheet(built, outdir):
+def contact_sheet(built, outdir, name="contact.jpg"):
     tw, th = 216, 384
     rows = []
     for date, fmt, out in built:
-        keys = BRAND_KEYS if fmt == "brand" else CASE_KEYS
         thumbs = []
+        if fmt == "carousel":
+            k = 1
+            while os.path.exists(os.path.join(out, f"slide{k}.jpg")) and k <= 6:
+                im = Image.open(os.path.join(out, f"slide{k}.jpg")).convert("RGB").resize((tw, int(tw * 1350 / 1080)))
+                thumbs.append((f"s{k}", im)); k += 1
+            rows.append((f"{date}  {fmt}", thumbs))
+            continue
+        keys = BRAND_KEYS if fmt == "brand" else CASE_KEYS
         for t in keys:
             fn = os.path.join(out, f"_k{t}.png")
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(t), "-i", os.path.join(out, "reel.mp4"),
@@ -694,12 +710,22 @@ def contact_sheet(built, outdir):
         d.text((20, y), label, font=F("Bold", 26), fill=INK)
         x = 20
         for t, im in thumbs:
-            sheet.paste(im, (x, y + 34)); d.text((x + 4, y + 36), f"{t}s", font=F("Bold", 18), fill=YELLOW)
+            sheet.paste(im, (x, y + 34)); d.text((x + 4, y + 36), f"{t}" + ("" if isinstance(t, str) else "s"), font=F("Bold", 18), fill=YELLOW)
             x += tw + 12
         y += th + 60
-    path = os.path.join(outdir, "contact.jpg")
+    path = os.path.join(outdir, name)
     sheet.save(path, quality=88)
     return path
+
+
+def carousel(p, out):
+    """TikTok photo post: 1080x1350 pearl/spotlight slides drawn by gen.py (URL on every slide)."""
+    sys.path.insert(0, HERE)
+    import gen
+    n = len(p["slides"])
+    for i, s in enumerate(p["slides"], 1):
+        gen.slide(s, i, n).convert("RGB").save(os.path.join(out, f"slide{i}.jpg"), quality=92)
+    return n
 
 
 def main(spec, outdir):
@@ -713,7 +739,7 @@ def main(spec, outdir):
     for p in posts:
         name = p["date"] if dates.count(p["date"]) == 1 else f"{p['date']}-{p['format']}"
         out = os.path.abspath(os.path.join(outdir, name)); os.makedirs(out, exist_ok=True)
-        total = brand(p, out) if p["format"] == "brand" else case(p, out)
+        total = {"brand": brand, "case": case, "carousel": carousel}[p["format"]](p, out)
         built.append((p["date"], p["format"], out))
         print(f"built {p['date']} {p['format']} {total:.1f}s")
     print("contact sheet:", contact_sheet(built, outdir))

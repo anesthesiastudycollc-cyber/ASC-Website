@@ -1,0 +1,245 @@
+[
+ {
+  "date": "2026-11-28",
+  "format": "brand",
+  "slot": "20:30",
+  "product": "Meet ASC",
+  "label": "SPOTLIGHT",
+  "chip": "Meet ASC",
+  "hook": "Anesthesia school is a lot. Your study tools shouldn't be.",
+  "kicker": "Practical, visual resources that connect the classroom to the OR.",
+  "points_title": "What we make",
+  "points": [
+   "Clinical logbooks and case trackers",
+   "Study guides, mind maps and coloring books",
+   "Quick charts and board-style review"
+  ],
+  "mockup": {
+   "type": "meet",
+   "labels": [
+    "Logbooks",
+    "Study guides",
+    "Mind maps",
+    "Quick charts"
+   ]
+  },
+  "where": "Everything lives at www.anesthesiastudyco.com",
+  "outro": "Organized. Confident. OR-ready.",
+  "tagline": "For AA, CAA, SRNA and CRNA students",
+  "caption": "Anesthesia school is a lot. Your study tools shouldn't be. 💉\nWe make logbooks, study guides, mind maps and quick charts for anesthesia students and new grads.\nBuilt to take you from the classroom to the OR with confidence.\nFollow for a new case every day, and tell us what you're studying 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #anesthesiastudyco #caa"
+ },
+ {
+  "date": "2026-11-29",
+  "format": "case",
+  "slot": "20:30",
+  "topic": "PACU: sleepy, RR 6, SpO2 88% - airway and O2 first",
+  "series": "PACU call",
+  "vitals": [
+   {
+    "label": "SpO2",
+    "value": "88%",
+    "alarm": true
+   },
+   {
+    "label": "RR",
+    "value": "6",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "64"
+   },
+   {
+    "label": "BP",
+    "value": "118/70"
+   }
+  ],
+  "scene": "PACU, 20 minutes after a lap chole. Snoring, hard to arouse, breathing 6 times a minute.",
+  "question": "First move?",
+  "options": [
+   "Stimulate, jaw thrust, O2",
+   "Get a chest X-ray",
+   "Draw an ABG",
+   "Call for a CT"
+  ],
+  "correct": "A",
+  "why": "Airway and oxygen first: wake them, open the airway, give oxygen and assist breathing if needed. Then find the cause: opioids, residual block or anesthetic. Treat it, and call for help early.",
+  "pearl": "Sleepy and hypoxemic in PACU: airway and oxygen before any workup.",
+  "cta": "Comment your pick",
+  "caption": "PACU: snoring, RR 6, SpO2 88%. What's your first move? 😴\nAirway and oxygen come before the workup.\nThen look for the cause: opioids, residual block or residual anesthetic.\nComment your pick 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #pacu #caa"
+ },
+ {
+  "date": "2026-11-30",
+  "format": "brand",
+  "slot": "20:30",
+  "product": "Clinical logbooks and case trackers",
+  "label": "SPOTLIGHT",
+  "chip": "Clinical logbooks",
+  "hook": "Could you count every case you did last month?",
+  "kicker": "Log every case, airway and line the day it happens, not the night before it's due.",
+  "points_title": "What you track",
+  "points": [
+   "Cases by specialty and anesthetic type",
+   "Airways, lines, blocks and neuraxials",
+   "Notes from every shift in one place"
+  ],
+  "mockup": {
+   "type": "logbook",
+   "title": "CLINICAL LOGBOOK",
+   "labels": [
+    "Date",
+    "Case",
+    "Airway",
+    "Lines"
+   ]
+  },
+  "where": "Logbooks + case trackers at www.anesthesiastudyco.com",
+  "outro": "Track it today. Thank yourself at graduation.",
+  "tagline": "Made for clinical-year anesthesia students",
+  "caption": "Could you count every case you did last month? 📒\nOur clinical logbooks and case trackers keep cases, airways, lines and blocks in one place.\nLog it the same day and you'll never rebuild a month from memory.\nSave this for your first clinical day 📌\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #clinicals #anesthesiastudyco"
+ },
+ {
+  "date": "2026-12-01",
+  "format": "case",
+  "slot": "20:30",
+  "topic": "Auto-PEEP after bagging an asthmatic",
+  "series": "Fix it fast",
+  "vitals": [
+   {
+    "label": "BP",
+    "value": "64/38",
+    "alarm": true
+   },
+   {
+    "label": "HR",
+    "value": "118"
+   },
+   {
+    "label": "SpO2",
+    "value": "93%"
+   },
+   {
+    "label": "PEAK",
+    "value": "38",
+    "alarm": true
+   }
+  ],
+  "scene": "Severe asthmatic, just intubated. You're bagging fast. BP falls and the chest looks hyperinflated.",
+  "question": "Quick first move?",
+  "options": [
+   "Briefly disconnect circuit",
+   "Bag faster for the CO2",
+   "Add more PEEP",
+   "Give fluid only"
+  ],
+  "correct": "A",
+  "why": "Fast breaths with too little time to exhale stack air (auto-PEEP), raising chest pressure and cutting venous return. A brief disconnect lets the lungs empty. Then slow the rate and treat the bronchospasm.",
+  "pearl": "Hypotension after bagging an asthmatic: disconnect and let it out.",
+  "cta": "Comment your pick",
+  "caption": "Just intubated a severe asthmatic and the BP is crashing. First move? 🫁\nBreath stacking (auto-PEEP) cuts venous return.\nA brief disconnect lets the air out. Then slow down and lengthen expiration.\nComment your pick 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #airway #caa"
+ },
+ {
+  "date": "2026-12-02",
+  "format": "carousel",
+  "slot": "20:30",
+  "topic": "Spotlight: Quick Charts + quick-reference OR tools (carousel)",
+  "slides": [
+   {
+    "kind": "cover",
+    "tag": "What ASC offers",
+    "title": "Quick-reference tools for the OR",
+    "sub": "When you need the answer in 10 seconds, not 10 pages."
+   },
+   {
+    "header": "What's inside",
+    "bullets": [
+     "Quick Charts: airway and hemodynamics at a glance",
+     "Trauma Pocket Guide: hemorrhage and capnography",
+     "Visual medication study cards"
+    ]
+   },
+   {
+    "header": "Who it's for",
+    "body": "Students heading into clinicals and new grads who want a fast, visual check before the next case."
+   },
+   {
+    "header": "On a clinical day",
+    "bullets": [
+     "Review the plan before the case",
+     "Check a concept between cases",
+     "Less searching, more learning"
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "See them all",
+    "body": "Quick charts, pocket guides and more at www.anesthesiastudyco.com",
+    "button": "VISIT THE WEBSITE"
+   }
+  ],
+  "caption": "Need the answer in 10 seconds, not 10 pages? ⏱️\nOur Quick Charts and pocket guides put airway, hemodynamics and crisis basics on one page.\nMade to check between cases, not to read cover to cover.\nSave this and tell us which chart you'd use first 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #clinicals #anesthesiastudyco"
+ },
+ {
+  "date": "2026-12-03",
+  "format": "case",
+  "slot": "20:30",
+  "topic": "Bradycardia on laparoscopic insufflation",
+  "series": "Lap case",
+  "vitals": [
+   {
+    "label": "HR",
+    "value": "36",
+    "alarm": true
+   },
+   {
+    "label": "BP",
+    "value": "88/50",
+    "alarm": true
+   },
+   {
+    "label": "SpO2",
+    "value": "99%"
+   },
+   {
+    "label": "ETCO2",
+    "value": "38"
+   }
+  ],
+  "scene": "Laparoscopy. Seconds after CO2 insufflation starts, the heart rate drops from 72 to 36.",
+  "question": "First move?",
+  "options": [
+   "Release the pneumoperitoneum",
+   "Start an epinephrine drip",
+   "Begin chest compressions",
+   "Deepen with propofol"
+  ],
+  "correct": "A",
+  "why": "Rapid peritoneal stretch triggers a vagal reflex. Stop the stimulus: release the gas, then give an anticholinergic if it persists. Re-insufflate slowly. If ETCO2 suddenly falls with hypotension, think gas embolism.",
+  "pearl": "Brady on insufflation: let the gas out first, then atropine.",
+  "cta": "Comment your pick",
+  "caption": "CO2 goes in and the heart rate drops to 36. What do you do first? 💓\nPeritoneal stretch can trigger a strong vagal reflex.\nRemove the stimulus first, then treat if it persists.\nComment your pick 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #laparoscopy #caa"
+ },
+ {
+  "date": "2026-12-04",
+  "format": "brand",
+  "slot": "20:30",
+  "product": "Mind maps",
+  "label": "SPOTLIGHT",
+  "chip": "Mind maps · $5 each",
+  "hook": "One page. One topic. The whole picture.",
+  "kicker": "Mind maps turn a long lecture into one visual you can review in minutes.",
+  "points_title": "Why students use them",
+  "points": [
+   "See how concepts connect, not just facts",
+   "Review fast before class or a case",
+   "Print, color and mark them up"
+  ],
+  "mockup": {
+   "type": "mindmap"
+  },
+  "where": "$5 each at www.anesthesiastudyco.com",
+  "outro": "See it. Connect it. Remember it.",
+  "tagline": "For visual learners in anesthesia",
+  "caption": "One page. One topic. The whole picture. 🧠\nOur anesthesia mind maps turn a long lecture into one visual.\nReview before class or a case in minutes. $5 each.\nComment the topic you want mapped next 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #studytips #anesthesiastudyco"
+ }
+]

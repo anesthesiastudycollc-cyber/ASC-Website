@@ -1,0 +1,304 @@
+[
+ {
+  "date": "2026-11-28",
+  "format": "case",
+  "slot": "12:30",
+  "topic": "Bezold-Jarisch: brady + hypotension in beach chair after interscalene",
+  "series": "Would you catch it?",
+  "vitals": [
+   {
+    "label": "HR",
+    "value": "38",
+    "alarm": true
+   },
+   {
+    "label": "BP",
+    "value": "68/40",
+    "alarm": true
+   },
+   {
+    "label": "SpO2",
+    "value": "98%"
+   }
+  ],
+  "scene": "Beach-chair shoulder surgery under an interscalene block. Twenty minutes after sitting up, HR and BP suddenly drop.",
+  "question": "Most likely cause?",
+  "options": [
+   "Local anesthetic toxicity",
+   "Bezold-Jarisch reflex",
+   "Phrenic nerve block",
+   "Surgical blood loss"
+  ],
+  "correct": "B",
+  "why": "Sitting up pools blood. An underfilled, hard-contracting ventricle can trigger a vagal reflex: sudden bradycardia and hypotension. Lower the head, give fluid, atropine or ephedrine, and epinephrine if severe.",
+  "pearl": "Beach chair plus sudden brady and hypotension: think Bezold-Jarisch, treat fast.",
+  "cta": "Comment your pick",
+  "caption": "Beach chair, interscalene block, then HR 38 and BP 68/40. What's happening? 🪑\nSitting up pools blood, and an underfilled heart can fire a vagal reflex.\nHead down, fluid, atropine or ephedrine. Epinephrine if it's severe.\nComment A, B, C or D before the reveal 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #regionalanesthesia #caa"
+ },
+ {
+  "date": "2026-11-29",
+  "format": "case",
+  "slot": "12:30",
+  "topic": "Peak 40 / plateau 18: resistance vs compliance",
+  "series": "Vent check",
+  "vitals": [
+   {
+    "label": "PEAK",
+    "value": "40",
+    "alarm": true
+   },
+   {
+    "label": "PLATEAU",
+    "value": "18"
+   },
+   {
+    "label": "SpO2",
+    "value": "96%"
+   },
+   {
+    "label": "ETCO2",
+    "value": "38"
+   }
+  ],
+  "scene": "Mid-case, peak pressure jumps from 22 to 40. Plateau stays at 18. Tidal volume is unchanged.",
+  "question": "Where's the problem?",
+  "options": [
+   "Tube or airways",
+   "Lungs or chest wall",
+   "Ventilator failure",
+   "Too much fluid"
+  ],
+  "correct": "A",
+  "why": "Peak minus plateau reflects airway resistance. A wide gap puts the problem in the tube or airways: kink, secretions, biting, bronchospasm. Pass a suction catheter and listen. If both rise, think compliance.",
+  "pearl": "Wide peak-plateau gap means resistance. Both rising means compliance.",
+  "cta": "Comment your pick",
+  "caption": "Peak 40, plateau 18. Is it the tube or the lungs? 🫁\nThe gap between peak and plateau tells you where to look.\nWide gap = resistance (tube, secretions, bronchospasm). Both up = compliance.\nComment your pick and save this for your next vent check 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #ventilator #caa"
+ },
+ {
+  "date": "2026-11-30",
+  "format": "carousel",
+  "slot": "12:30",
+  "topic": "LAST: recognition to lipid emulsion (carousel)",
+  "slides": [
+   {
+    "kind": "cover",
+    "tag": "Regional crisis",
+    "title": "LAST: from first sign to lipid",
+    "sub": "Local anesthetic systemic toxicity can follow any block. Know the plan."
+   },
+   {
+    "header": "Recognize it",
+    "bullets": [
+     "Metallic taste, tinnitus, perioral numbness",
+     "Agitation or confusion, then seizures",
+     "Arrhythmias, hypotension, arrest",
+     "It can start with cardiac collapse, no warning"
+    ]
+   },
+   {
+    "header": "First moves",
+    "bullets": [
+     "Stop injecting local anesthetic",
+     "Call for help and the LAST kit",
+     "100% O2: avoid hypoxia and acidosis",
+     "Benzodiazepine for seizures"
+    ]
+   },
+   {
+    "header": "Lipid emulsion",
+    "body": "Give 20% lipid emulsion early, at the first sign of serious toxicity, following your LAST checklist.",
+    "pearl": "Know where the lipid kit lives before you block."
+   },
+   {
+    "header": "If the heart stops",
+    "bullets": [
+     "Start ACLS; it may take a long time",
+     "Use smaller epinephrine doses",
+     "Avoid vasopressin, beta and calcium channel blockers",
+     "Consider bypass or ECMO early"
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Stop. Oxygenate. Lipid.",
+    "body": "Every block, every time.",
+    "button": "SAVE FOR YOUR ROTATION"
+   }
+  ],
+  "caption": "Your patient tastes metal right after the block. Do you know the next steps? ⚠️\nSwipe: recognize LAST, stop injecting, oxygenate, lipid emulsion early.\nIf arrest: ACLS with smaller epinephrine doses, and keep going.\nSave this for your regional rotation 📌\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #regionalanesthesia #caa"
+ },
+ {
+  "date": "2026-12-01",
+  "format": "case",
+  "slot": "12:30",
+  "topic": "Quantitative TOF ratio 0.7 before extubation",
+  "series": "Would you extubate?",
+  "vitals": [
+   {
+    "label": "TOF RATIO",
+    "value": "0.70",
+    "alarm": true
+   },
+   {
+    "label": "SpO2",
+    "value": "99%"
+   },
+   {
+    "label": "RR",
+    "value": "14"
+   },
+   {
+    "label": "ETCO2",
+    "value": "36"
+   }
+  ],
+  "scene": "End of case. Eyes open, 5-second head lift, strong grip. The quantitative TOF ratio reads 0.70.",
+  "question": "Extubate now?",
+  "options": [
+   "Yes, head lift is enough",
+   "No: reverse, reach 0.9",
+   "Yes, then give O2",
+   "Only if TOF count is 4"
+  ],
+  "correct": "B",
+  "why": "Head lift and grip can be present well below a TOF ratio of 0.9, while swallowing and airway protection are still weak. Reverse as appropriate and confirm 0.9 or higher before extubating.",
+  "pearl": "Measure, don't guess: TOF ratio of 0.9 or higher before extubation.",
+  "cta": "Comment your pick",
+  "caption": "Strong grip, 5-second head lift, TOF ratio 0.70. Would you pull the tube? 🤔\nClinical signs can look fine while the airway muscles are still weak.\nA measured TOF ratio of 0.9 or higher is the target.\nComment your pick 👇 Follow for a new case every day\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #neuromuscularblockade #caa"
+ },
+ {
+  "date": "2026-12-02",
+  "format": "carousel",
+  "slot": "12:30",
+  "topic": "Venous air embolism: recognition and management (carousel)",
+  "slides": [
+   {
+    "kind": "cover",
+    "tag": "Crisis pearl",
+    "title": "Venous air embolism: spot it, stop it",
+    "sub": "Sitting craniotomy. ETCO2 suddenly drops. What now?"
+   },
+   {
+    "header": "The clues",
+    "bullets": [
+     "Sudden drop in ETCO2",
+     "Hypotension and tachycardia",
+     "Falling SpO2",
+     "Precordial Doppler or TEE catch it first"
+    ]
+   },
+   {
+    "header": "Act fast",
+    "bullets": [
+     "Tell the surgeon: flood the field",
+     "100% O2, stop nitrous oxide",
+     "Lower the site below the heart if you can",
+     "Aspirate air from a multi-orifice central line"
+    ]
+   },
+   {
+    "header": "Support",
+    "bullets": [
+     "Fluids and vasopressors for BP",
+     "Left side down, head down if feasible",
+     "CPR if arrest"
+    ]
+   },
+   {
+    "header": "Who's at risk",
+    "body": "Any time the surgical site sits above the heart: sitting craniotomy, beach-chair shoulder, central line placement.",
+    "pearl": "Sudden ETCO2 drop plus hypotension: think air embolism."
+   },
+   {
+    "kind": "cta",
+    "title": "Flood. Oxygen. Aspirate.",
+    "body": "Know the sequence before your first neuro case.",
+    "button": "SAVE FOR YOUR ROTATION"
+   }
+  ],
+  "caption": "Sitting craniotomy and the ETCO2 suddenly falls. Air embolism? 🧠\nSwipe for the clues and the sequence: flood the field, 100% O2, stop nitrous, aspirate.\nAny site above the heart is at risk.\nSave this before your neuro rotation 📌\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #neuroanesthesia #caa"
+ },
+ {
+  "date": "2026-12-03",
+  "format": "case",
+  "slot": "12:30",
+  "topic": "TURP syndrome under spinal",
+  "series": "Awake patient clue",
+  "vitals": [
+   {
+    "label": "HR",
+    "value": "48",
+    "alarm": true
+   },
+   {
+    "label": "BP",
+    "value": "172/96",
+    "alarm": true
+   },
+   {
+    "label": "SpO2",
+    "value": "94%"
+   },
+   {
+    "label": "Na+",
+    "value": "118",
+    "alarm": true
+   }
+  ],
+  "scene": "TURP under spinal, 70 minutes in. The patient becomes confused, restless and nauseated.",
+  "question": "Most likely cause?",
+  "options": [
+   "Anxiety: sedate",
+   "Irrigant absorption",
+   "High spinal",
+   "Hypoglycemia"
+  ],
+  "correct": "B",
+  "why": "Absorbed hypotonic irrigant causes fluid overload and dilutional hyponatremia: hypertension, bradycardia, confusion, seizures. Ask the surgeon to finish, check sodium, treat overload, and correct severe hyponatremia carefully.",
+  "pearl": "An awake patient under spinal is your best TURP syndrome monitor.",
+  "cta": "Comment your pick",
+  "caption": "TURP under spinal: confused, BP 172/96, HR 48. What's going on? 🧪\nIrrigant absorption: fluid overload plus dilutional hyponatremia.\nThat's why we like these patients awake: mental status is the monitor.\nComment A, B, C or D 👇\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #urology #caa"
+ },
+ {
+  "date": "2026-12-04",
+  "format": "carousel",
+  "slot": "12:30",
+  "topic": "5 capnogram shapes (carousel)",
+  "slides": [
+   {
+    "kind": "cover",
+    "tag": "Capnography",
+    "title": "5 capnograms every student should know",
+    "sub": "Read the waveform, not just the number."
+   },
+   {
+    "header": "1. Shark fin",
+    "body": "Slow upstroke, no clean plateau. Think bronchospasm, COPD or a kinked tube."
+   },
+   {
+    "header": "2. Curare cleft",
+    "body": "A notch in the plateau: the patient is breathing against the ventilator. The block or anesthetic is wearing off."
+   },
+   {
+    "header": "3. Flat line",
+    "body": "No trace after intubation: esophageal until proven otherwise. Mid-case: disconnect, total obstruction or arrest."
+   },
+   {
+    "header": "4. Sudden fall",
+    "body": "A sudden drop with hypotension: low cardiac output or embolism (air, clot, CO2). Also check for a leak."
+   },
+   {
+    "header": "5. Baseline above zero",
+    "body": "Rebreathing CO2. Check for exhausted absorbent or a stuck expiratory valve.",
+    "pearl": "Look at the shape every time you glance at the monitor."
+   },
+   {
+    "kind": "cta",
+    "title": "Read the shape.",
+    "body": "Save this for your next case.",
+    "button": "SAVE FOR YOUR ROTATION"
+   }
+  ],
+  "caption": "Can you name these 5 capnogram shapes? 📈\nShark fin, curare cleft, flat line, sudden fall, rising baseline.\nEach one points you to a different problem.\nSave this and quiz your classmate 📌\n\n📚 More at www.anesthesiastudyco.com 🔗 link in bio\n\n#anesthesia #anesthesiastudent #crna #srna #capnography #caa"
+ }
+]
