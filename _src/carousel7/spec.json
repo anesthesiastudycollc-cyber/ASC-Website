@@ -1,0 +1,80 @@
+[
+ {"slug": "1-myth-vs-fact", "label": "Myth vs. Fact",
+  "slides": [
+   {"kind": "cover", "tag": "Myth vs. Fact", "title": "4 anesthesia myths that trip up students", "sub": "How many did you believe in your first semester?"},
+   {"kind": "myth", "myth": "A good pulse ox means the patient is ventilating.", "fact": "SpO2 shows oxygenation. On high FiO2 it can stay normal while CO2 climbs. Capnography shows ventilation."},
+   {"kind": "myth", "myth": "Sugammadex reverses any neuromuscular blocker.", "fact": "Sugammadex binds rocuronium and vecuronium. It does not reverse succinylcholine."},
+   {"kind": "myth", "myth": "A higher MAC means a stronger volatile agent.", "fact": "It's the opposite. A lower MAC means a more potent agent.", "pearl": "MAC = the concentration that stops movement to incision in 50% of patients."},
+   {"kind": "myth", "myth": "Any BP cuff size gives you a good reading.", "fact": "Too small reads falsely high. Too large reads falsely low. Size the cuff to the arm."},
+   {"kind": "cta", "title": "Which myth got you?", "body": "Comment the number. Our study cards and Quick Charts turn facts like these into fast review.", "button": "SAVE FOR BOARDS"}
+  ],
+  "caption": "Be honest: which of these did you believe in your first semester? 👀\n\nSwipe through 4 myths that trip up anesthesia students: pulse ox vs. ventilation, what sugammadex really reverses, what a high MAC means, and why cuff size matters.\n\nComment the number of the myth that got you 👇 and save this for boards.\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards and Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #AnesthesiaStudent #MythVsFact #Capnography #Sugammadex #CAA #CRNA #SRNA #BoardReview #AnesthesiaStudyCo"},
+
+ {"slug": "2-common-mistakes", "label": "Common Mistakes",
+  "slides": [
+   {"kind": "cover", "tag": "Common Mistakes", "title": "5 mistakes new anesthesia students make in clinicals", "sub": "Number 4 costs students hours at the end of every semester."},
+   {"kind": "mistake", "n": 1, "mistake": "Walking in without checking the room", "why": "The patient is on the table and the suction isn't on.", "fix": "Do the machine check and turn on the suction in every room, every case."},
+   {"kind": "mistake", "n": 2, "mistake": "Drawing up a drug and labeling it later", "why": "Unlabeled syringes are how swaps happen.", "fix": "Label every syringe the moment you draw it up."},
+   {"kind": "mistake", "n": 3, "mistake": "Cramming the night before", "why": "You recognize it on paper and freeze in the OR.", "fix": "Review 20 minutes a day, and say the 'why' out loud."},
+   {"kind": "mistake", "n": 4, "mistake": "Logging cases at the end of the week", "why": "Details fade and your case counts end up wrong.", "fix": "Log every case the same day, right after the shift."},
+   {"kind": "mistake", "n": 5, "mistake": "Asking 'What should I do?'", "why": "It tells your preceptor you haven't thought it through.", "fix": "Come with your plan, then ask: 'Here's my plan. What would you change?'"},
+   {"kind": "cta", "title": "Which one have you done?", "body": "Our clinical logbooks and student planner make #3 and #4 easy.", "button": "SAVE FOR CLINICALS"}
+  ],
+  "caption": "Every anesthesia student makes at least one of these in their first rotation. Which one was yours? 😅\n\nSwipe for 5 common clinical mistakes and the fix for each: checking the room, labeling syringes, daily review instead of cramming, same-day case logging, and walking in with a plan.\n\nTag a classmate starting clinicals and save this for day one 👇\n\n📚 Go deeper: Clinical Logbook Vol. 1 and the Anesthesia Student Planner, on Amazon (link in bio).\n\n#AnesthesiaStudent #ClinicalRotation #AnesthesiaSchool #StudentLife #CAA #CRNA #SRNA #StudyTips #AnesthesiaStudyCo"},
+
+ {"slug": "3-comparison", "label": "Comparison",
+  "slides": [
+   {"kind": "cover", "tag": "Comparison", "title": "Phenylephrine vs. ephedrine", "sub": "Two pressors students mix up all the time. Here's the simple version."},
+   {"kind": "compare", "header": "Side by side", "cols": ["Phenylephrine", "Ephedrine"],
+    "rows": [["How it works", "Direct alpha-1 agonist", "Mostly indirect: releases norepinephrine (alpha + beta)"],
+             ["Heart rate", "May cause reflex bradycardia", "Tends to raise HR"],
+             ["Best when", "Low BP with a normal or high HR", "Low BP with a low HR"],
+             ["Watch for", "Slowing HR, lower cardiac output", "Weaker effect with repeat doses (tachyphylaxis)"]]},
+   {"kind": "body", "header": "The quick rule", "big": "Look at the heart rate first.", "bullets": ["HR high or normal: phenylephrine", "HR low: ephedrine"], "pearl": "Always treat the cause too: depth, volume, position, surgical field."},
+   {"kind": "cta", "title": "Pressors, simplified.", "body": "Our medication study cards break every drug down like this.", "button": "SAVE THIS COMPARISON"}
+  ],
+  "caption": "BP drops after induction. Phenylephrine or ephedrine? Check the heart rate first. 💉\n\nPhenylephrine is a direct alpha-1 agonist that can slow the HR, so it fits low BP with a normal or fast HR. Ephedrine works mostly indirectly with alpha and beta effects and tends to raise the HR, so it fits low BP with a slow HR. And always treat the cause.\n\nSave this for your next induction 📌\n\n📚 Go deeper: Visual Anesthesia Medication Study Cards, on Amazon (link in bio).\n\n#Anesthesia #Pharmacology #Phenylephrine #Ephedrine #Vasopressors #CAA #CRNA #SRNA #AnesthesiaStudent #AnesthesiaStudyCo"},
+
+ {"slug": "4-checklist", "label": "Checklist",
+  "slides": [
+   {"kind": "cover", "tag": "Checklist", "title": "Room setup before every induction", "sub": "Remember SOAP-ME. Screenshot it and run it every morning."},
+   {"kind": "checklist", "header": "S · O · A", "items": [["Suction", "On, working, and within reach of the head"], ["Oxygen", "Machine check done, backup O2 cylinder and a self-inflating bag ready"], ["Airway", "Mask, oral and nasal airways, laryngoscopes that light up, tubes, stylet, plus your backup plan"]]},
+   {"kind": "checklist", "header": "P · M · E", "items": [["Pharmacy", "Induction drugs, relaxant, pressors and emergency drugs drawn up and labeled"], ["Monitors", "ECG, BP cuff sized right, SpO2, capnography, temperature"], ["Equipment", "IV running, warmer, bed controls, padding and positioning gear"]], "pearl": "If anything is missing, the patient waits. Not the other way around."},
+   {"kind": "cta", "title": "SOAP-ME, every room, every case.", "body": "Find more checklists like this in our Quick Charts and Jump Start guide.", "button": "SAVE THIS CHECKLIST"}
+  ],
+  "caption": "Could you set up your room from memory before the patient rolls in? ✅\n\nUse SOAP-ME: Suction, Oxygen, Airway, Pharmacy, Monitors, Equipment. Run it every morning and before every induction until it's automatic.\n\n📌 Save this and screenshot it for your first rotation.\n\n📚 Go deeper: Anesthesiologist Assistant: Get a Jump Start and Anesthesia & Critical Care: Quick Charts, on Amazon (link in bio).\n\n#Anesthesia #SOAPME #ORSetup #AnesthesiaStudent #ClinicalRotation #CAA #CRNA #SRNA #Checklist #AnesthesiaStudyCo"},
+
+ {"slug": "5-step-by-step", "label": "Step-by-Step",
+  "slides": [
+   {"kind": "cover", "tag": "Step-by-Step", "title": "Rapid sequence induction in 6 steps", "sub": "The order matters. Here's the sequence, one step at a time."},
+   {"kind": "step", "n": 1, "title": "Prepare", "bullets": ["Suction on, under the pillow", "Plan A, B and C said out loud", "Drugs drawn up and labeled"]},
+   {"kind": "step", "n": 2, "title": "Preoxygenate", "bullets": ["Tight mask seal, 100% O2", "Aim for an end-tidal O2 of about 90%"]},
+   {"kind": "step", "n": 3, "title": "Induce and paralyze", "bullets": ["Give the hypnotic, then the relaxant right after", "Cricoid pressure per your institution's practice"]},
+   {"kind": "step", "n": 4, "title": "Minimize mask ventilation", "bullets": ["Gentle, low-pressure breaths only if needed to prevent desaturation"]},
+   {"kind": "step", "n": 5, "title": "Intubate and cuff up", "bullets": ["Inflate the cuff before ventilating"]},
+   {"kind": "step", "n": 6, "title": "Confirm placement", "bullets": ["Sustained ETCO2 waveform", "Bilateral breath sounds and chest rise"], "pearl": "No trace = wrong place."},
+   {"kind": "cta", "title": "Prepare. Preoxygenate. Push. Place. Prove.", "body": "Our beginner fundamentals guide builds every core skill step by step.", "button": "SAVE FOR YOUR ROTATION"}
+  ],
+  "caption": "Could you walk your preceptor through an RSI, step by step, without notes? ⚡\n\nSwipe for the 6 steps: prepare, preoxygenate, induce and paralyze, minimize mask ventilation, intubate and cuff up, then confirm with a sustained ETCO2 waveform.\n\n💡 Cricoid pressure practice varies, so follow your institution and your preceptor.\n\n📌 Save this for your airway rotation.\n\n📚 Go deeper: Basic Fundamentals of Beginner Anesthesia, on Amazon (link in bio).\n\n#Anesthesia #RSI #RapidSequenceInduction #AirwayManagement #Intubation #CAA #CRNA #SRNA #AnesthesiaStudent #AnesthesiaStudyCo"},
+
+ {"slug": "6-unpopular-opinion", "label": "Unpopular Opinion",
+  "slides": [
+   {"kind": "cover", "tag": "Unpopular Opinion", "title": "Memorizing doses isn't the hard part of anesthesia school", "sub": "Here's what actually separates students who struggle from students who don't."},
+   {"kind": "quote", "quote": "The hard part is knowing WHY the patient is doing what they're doing.", "sub": "Doses you can look up. Reasoning you can't."},
+   {"kind": "body", "header": "Why it matters", "bullets": ["If you know the mechanism, you can predict the problem before the monitor does", "Anticipating beats reacting", "Preceptors trust students who can explain their plan"]},
+   {"kind": "body", "header": "How to build it", "bullets": ["For every drug, ask: what will it do to BP, HR and breathing?", "After every case, write one thing that surprised you", "Map how topics connect, not just what they are"], "pearl": "Understanding sticks. Memorized lists fade after the exam."},
+   {"kind": "cta", "title": "Agree or disagree?", "body": "Our $5 mind maps show how topics connect. Find them at anesthesiastudyco.com.", "button": "TELL US IN THE COMMENTS"}
+  ],
+  "caption": "Unpopular opinion: memorizing doses is not the hard part of anesthesia school. 🔥\n\nDoses you can look up. Knowing WHY the patient is doing what they're doing, and predicting what happens next, is what separates students who struggle from students who don't.\n\nSwipe for how to build that reasoning. Agree or disagree? Tell us in the comments 👇\n\n📚 Go deeper: our $5 anesthesia mind maps at anesthesiastudyco.com, and our study guides on Amazon (link in bio).\n\n#UnpopularOpinion #AnesthesiaStudent #AnesthesiaSchool #StudyTips #ClinicalReasoning #CAA #CRNA #SRNA #AnesthesiaStudyCo"},
+
+ {"slug": "7-storytelling", "label": "Our Story",
+  "slides": [
+   {"kind": "cover", "tag": "Our Story", "title": "Why Anesthesia Study Co. exists", "sub": "It starts with a feeling every anesthesia student knows."},
+   {"kind": "story", "kicker": "The lecture made sense.", "text": "You studied. You knew the slides. You could explain MAC and pressors on the exam."},
+   {"kind": "story", "kicker": "Then came the OR.", "text": "Alarms. A preceptor asking for your plan. A dozen things happening at once, and suddenly the lecture felt very far away."},
+   {"kind": "story", "kicker": "That gap is real.", "text": "It isn't that students don't study. It's that classroom notes aren't built for a fast-moving clinical day.", "pearl": "So we built tools that are."},
+   {"kind": "body", "header": "What we make", "bullets": ["Quick-reference charts and study cards", "Clinical logbooks and case trackers", "Study guides, mind maps and board review", "Coloring study books and planners"], "pearl": "Built by anesthesia clinicians with 30+ years in the OR and the classroom."},
+   {"kind": "cta", "title": "From classroom to OR, with confidence.", "body": "Follow for daily anesthesia study tools.", "button": "FOLLOW @ANESTHESIASTUDYCO"}
+  ],
+  "caption": "You knew the lecture cold. Then you walked into the OR, and everything moved faster than your notes. 💙\n\nThat gap between classroom and clinical is why Anesthesia Study Co. exists. We create practical, student-centered tools that help you stay organized, track your clinical progress and walk in prepared: Quick Charts, clinical logbooks, study guides, mind maps, coloring study books and board review.\n\nBuilt by anesthesia clinicians with 30+ years in the OR and the classroom.\n\nFollow for daily study tools, and tell us: what was your first day in the OR like? 👇\n\n📚 Shop our books on Amazon and digital tools at anesthesiastudyco.com (link in bio).\n\n#AnesthesiaStudyCo #AnesthesiaStudent #AnesthesiaSchool #CAA #CRNA #SRNA #StudentSuccess #ClinicalRotation"}
+]
