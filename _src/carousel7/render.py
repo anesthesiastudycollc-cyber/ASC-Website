@@ -85,7 +85,8 @@ def base(idx, n, label):
     paste_h(img, MARK, 54, 38, 74)
     d.text((140, 56), "ANESTHESIA STUDY CO.", font=F("ExtraBold", 30), fill=WHITE)
     d.text((140, 92), label.upper(), font=F("Bold", 22), fill=BLUE)
-    d.text((W - 60, 62), f"{idx}/{n}", font=F("Bold", 28), fill=LIGHT, anchor="ra")
+    d.text((W - 60, 50), f"{idx}/{n}", font=F("Bold", 28), fill=LIGHT, anchor="ra")
+    d.text((W - 60, 92), "www.anesthesiastudyco.com", font=F("Bold", 22), fill=GOLD, anchor="ra")
     d.text((W // 2, H - 38), FOOT, font=F("Medium", 20), fill=(160, 185, 210), anchor="ms")
     return img, d
 
@@ -289,10 +290,11 @@ def s_cta(s, img, d):
     paste_h(img, FULL, (W - w) // 2, 170, 330)
     y = tb(d, (90, 560), s["title"], F("ExtraBold", 64), WHITE, W - 180, 1.14, center=True)
     y = tb(d, (90, y + 24), s.get("body", ""), F("SemiBold", 40), LIGHT, W - 180, 1.32, center=True)
-    by = max(y + 40, 1020)
+    by = max(y + 40, 960)
     d.rounded_rectangle((130, by, W - 130, by + 108), radius=54, fill=GOLD)
     d.text((W // 2, by + 54), s.get("button", "SAVE THIS POST"), font=F("ExtraBold", 40), fill=NAVY, anchor="mm")
-    d.text((W // 2, by + 150), "anesthesiastudyco.com  ·  @anesthesiastudyco", font=F("Bold", 32), fill=BLUE, anchor="ma")
+    d.text((W // 2, by + 140), "SHOP & STUDY AT", font=F("Bold", 26), fill=LIGHT, anchor="ma")
+    d.text((W // 2, by + 176), "www.anesthesiastudyco.com", font=F("ExtraBold", 46), fill=WHITE, anchor="ma")
 
 
 KINDS = dict(cover=s_cover, myth=s_myth, mistake=s_mistake, compare=s_compare, checklist=s_checklist,
