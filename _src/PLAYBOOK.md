@@ -10,7 +10,8 @@ Owner: Andrea Regan, CAA (30+ yrs clinical anesthesia, AA program faculty). Audi
 
 ## Rules
 - Clinically accurate, conservative, guideline-consistent. No drug doses beyond what the plan already states. No patient identifiers.
-- Every caption: hook question, 2-3 lines of teaching, CTA (save/comment), then "📚 Go deeper: <book>, on Amazon (link in bio)." then 7-10 hashtags ending #AnesthesiaStudyCo.
+- Every caption: hook question, 2-3 lines of teaching, CTA (save/comment), then "📚 Go deeper with <book> at www.anesthesiastudyco.com 🔗 link in bio" then 7-10 hashtags ending #AnesthesiaStudyCo.
+- WEBSITE FIRST (Andrea, Nov 26): www.anesthesiastudyco.com is where every post sends people. Every caption CTA and every final slide points to the website, not Amazon/Etsy. gen.py prints the URL on every slide and reel.
 - Book map: airway/hemodynamics → Anesthesia & Critical Care: Quick Charts; trauma/capnography/hemorrhage → Trauma Anesthesia Pocket Guide; drugs → Visual Anesthesia Medication Study Cards or Anesthesia Coloring Book; first-year basics → Basic Fundamentals of Beginner Anesthesia or Anesthesiologist Assistant Get a Jump Start; study-life → Anesthesia Student Planner, Clinical Logbook Vol. 1/2.
 - Website/app: say "coming soon" only. Never give a launch date; never link the old Netlify site. The app banner on the new site says "Launching 2027".
 - Educator/OSCE/talking-head ideas need Andrea on camera: replace them with a Quick Case and list the idea in the weekly summary for her to film.

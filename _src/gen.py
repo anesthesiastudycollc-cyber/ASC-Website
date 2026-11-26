@@ -46,6 +46,7 @@ def brand_bar(d, w, h, page=None):
     d.text((60, 50), "ANESTHESIA STUDY CO.", font=F("ExtraBold", 30), fill=WHITE)
     if page:
         d.text((w - 60, 50), page, font=F("SemiBold", 28), fill=WHITE, anchor="ra")
+    d.text((w - 60, 92), "www.anesthesiastudyco.com", font=F("Bold", 24), fill=YELLOW, anchor="ra")
     d.text((w // 2, h - 45), FOOT, font=F("Medium", 20), fill=WHITE, anchor="ms")
 
 
@@ -116,6 +117,7 @@ def reel(p, out):
         img = gradient(W, H); d = ImageDraw.Draw(img)
         d.text((60, 70), "ANESTHESIA STUDY CO.", font=F("ExtraBold", 34), fill=WHITE)
         d.text((W - 60, 70), "QUICK CASE", font=F("ExtraBold", 34), fill=YELLOW, anchor="ra")
+        d.text((W // 2, H - 110), "www.anesthesiastudyco.com", font=F("ExtraBold", 40), fill=WHITE, anchor="ms")
         d.text((W // 2, H - 60), FOOT, font=F("Medium", 22), fill=WHITE, anchor="ms")
         return img, d
 
