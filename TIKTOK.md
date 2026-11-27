@@ -61,7 +61,7 @@ No Amazon/Etsy, no launch dates, no university/professor/exam names, no patient 
 
 ## Publishing (Metricool)
 blogId 6389044 · providers [{"network":"tiktok"}] · autoPublish true · draft false · 12:30 or 20:30 America/New_York.
-tiktokData: privacyOption PUBLIC_TO_EVERYONE · disableComment/Duet/Stitch false · isAigc false · autoAddMusic true on photo posts · title = hook on photo posts · commercialContentOwnBrand true (spotlights) / false (education).
+tiktokData: privacyOption PUBLIC_TO_EVERYONE · disableComment/Duet/Stitch false · isAigc false · autoAddMusic true on photo posts · title = caption hook line on EVERY post (Metricool rejects TikTok posts with no title, videos included) · commercialContentOwnBrand true (spotlights) / false (education).
 Media: https://cdn.jsdelivr.net/gh/anesthesiastudycollc-cyber/ASC-Website@<hash>/tiktok/<am|pm>/<date>/reel.mp4 (+ videoThumbnailUrl .../cover.jpg) or .../slideN.jpg.
 
 ## Performance log
